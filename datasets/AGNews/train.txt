@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Intel unveils Yonah dual-core mobile chip SAN FRANCISCO - Intel Corp. outlined its plans for a dual-core mobile processor and platform technology Wednesday, but declined to provide any details about the dual-core future of its flagship Pentium 4 desktop processor.",
+        "label": 3,
+        "idx": 22055
+    },
+    {
+        "question": "Oil Extends \\$5 Rout, Uneasy Over China  SINGAPORE (Reuters) - Oil prices deepened this week's 8  percent rout on Friday, edging nearer \\$50 a barrel as China's  surprise interest rate rise stirred concerns over demand growth  from the world's second largest energy user.",
+        "label": 2,
+        "idx": 76705
+    },
+    {
+        "question": "HP to Invest \\$3 Billion in Itanium-Powered Servers Hewlett-Packard Co. is planning to spend \\$3 billion over the next three years to grow the server product line that runs on Intel Corp.",
+        "label": 3,
+        "idx": 118212
+    },
+    {
+        "question": "Google Shares Flirt With \\$200 Mark Google Inc. shares came within a nickel of reaching \\$200 on Thursday before investors buckled to weakness seen throughout the technology sector as trading came to a close.",
+        "label": 3,
+        "idx": 77563
+    },
+    {
+        "question": "Gas Prices Drop, but Increase Expected CAMARILLO, Calif. - Gas prices have dropped nearly 5 cents in the past three weeks with an increase in supply, but soaring crude oil prices could cause rates to rise again soon, an industry analyst said Sunday...",
+        "label": 0,
+        "idx": 703
+    },
+    {
+        "question": "Kelly: Perennial Winner Southwest In 14.1 Traffic Jump &lt;b&gt;...&lt;/b&gt; Southwest Airlines (nyse: LUV - news - people ) on Friday said its traffic jumped 14.1 in November. The discount carrier carried 9.6 more passengers during the month than in the year-ago period.",
+        "label": 2,
+        "idx": 108362
+    },
+    {
+        "question": "Fed calls strategy on rates success WASHINGTON -- The unusual strategy adopted by the Federal Reserve in the summer of 2003 for stoking the US economy without cutting interest rates was a clear success, researchers at the US central bank have concluded in a new study.",
+        "label": 2,
+        "idx": 30575
+    },
+    {
+        "question": "Microsoft Asks Judge to Suspend Penalties  LUXEMBOURG (Reuters) - Microsoft Corp told a judge on  Thursday that the European Commission must be stopped from  ordering it to give up secret technology to competitors.",
+        "label": 2,
+        "idx": 44790
+    },
+    {
+        "question": "IBM Chief Sees Global Tech Spending Rise (Reuters) Reuters - Companies will spend more money next year\\on information technology and other capital investments\\compared with 2004, the chief executive of the world's biggest\\computer company, IBM Corp, said on Friday.",
+        "label": 3,
+        "idx": 54281
+    },
+    {
+        "question": "Mideast #39;s largest IT fair opens in Dubai DUBAI: The Middle East #39;s largest technology exhibition, GITEX, opened here Sunday with the international IT industry out in full force to showcase the latest market innovations to an expected 100,000 visitors.",
+        "label": 2,
+        "idx": 48876
+    },
+    {
+        "question": "QuickBooks 2005 makes Mac-PC transfer easier, more (MacCentral) MacCentral - Later this week Intuit Inc. will officially announce QuickBooks: Pro 2005 for Mac, the latest release of its small business accounting software -- although the company has already posted details of the new release to its Web site. Major changes in this new release include integrated iCal support, the ability to back up data files to .Mac, easier file sharing with the Windows version of QuickBooks and the ability to add PDF backgrounds to forms.",
+        "label": 3,
+        "idx": 71808
+    },
+    {
+        "question": "General: Bin Laden Likely Issuing Orders (AP) AP - The trail has gone cold in the hunt for suspected Sept. 11 mastermind Osama bin Laden three years after the audacious attacks, but the al-Qaida chief and his No. 2 are still orchestrating strikes like the recent suicide car bombing of a U.S. security firm in Kabul, a top American commander said Saturday.",
+        "label": 0,
+        "idx": 24628
+    },
+    {
+        "question": "Soyuz Capsule Lands on Kazakhstan Steppe American astronaut Mike Fincke, front , and Russian cosmonaut, Yuri Shargin, third, get off a plane at the Chkalovsky airport, just outside Moscow, Sunday, Oct. 24, 2004, while heading to Moscow #39;s Star City, the home-base of Russia #39;s space program.",
+        "label": 3,
+        "idx": 71820
+    },
+    {
+        "question": "Experts defuse bomb in Thailand #39;s violence-hit south Experts defused a large bomb Monday in a city where three similar devices exploded over the weekend - the latest violence blamed on suspected Islamic militants in Thailand #39;s troubled south.",
+        "label": 0,
+        "idx": 7217
+    },
+    {
+        "question": "Abductions in Iraq a big business Groups tied to Abu Musab Zarqawi claim a major car bombing Tuesday, taking Westerners as hostages.",
+        "label": 0,
+        "idx": 27528
+    },
+    {
+        "question": "UPDATE 2-Genuine Parts profit rises, shares up Genuine Parts Co. (GPC.N: Quote, Profile, Research) , a distributor of auto replacement and industrial parts, on Friday said third-quarter earnings rose sharply, pushing its stock up 9 percent.",
+        "label": 2,
+        "idx": 61546
+    },
+    {
+        "question": "Israel Kills 14 in Gaza Before Key Withdrawal Vote  GAZA (Reuters) - Israeli troops killed 14 Palestinians in a  Gaza refugee camp Monday as parliament prepared, under tight  security, to debate Prime Minister Ariel Sharon's plan to  withdraw from the occupied territory.",
+        "label": 0,
+        "idx": 71501
+    },
+    {
+        "question": "Mystifying Image Of Virgin Mary On Grilled Cheese Sandwich Sold To &lt;b&gt;...&lt;/b&gt; ST. JOHNS, Antigua, Nov. 22 /PRNewswire/ -- In a perfect example of Americana pop culture phenomenon, a grilled cheese sandwich that bears the image of the Virgin Mary has been sold on eBay to Internet casino GoldenPalace.",
+        "label": 3,
+        "idx": 99517
+    },
+    {
+        "question": "Coke reports drop in profits For the three months ending Sept. 30, Coke said it earned \\$935 million compared to a profit of \\$1.22 billion a year earlier. ATLANTA - The Coca-Cola Co.",
+        "label": 2,
+        "idx": 68516
+    },
+    {
+        "question": "Iraq #39;s top cleric wins agreement from rebel and government for &lt;b&gt;...&lt;/b&gt; Iraq #39;s top Shiite cleric, Grand Ayatollah Ali al-Sistani, made a dramatic return to Najaf on Thursday and swiftly won agreement from a rebel cleric and the government to end three weeks of fighting between his militia and US-Iraqi forces.",
+        "label": 0,
+        "idx": 11331
+    },
+    {
+        "question": "At IDF: iMac look-alikes and monitors as hats All-in-one machine at Intel confab bears resemblance to new Apple PC. Also: High-tech sandwich boards?",
+        "label": 3,
+        "idx": 22013
+    },
+    {
+        "question": "Motorola sinks TV dreams The firm scraps an alliance with Moxell to bring Motorola-branded plasma TVs, LCD TVs and monitors to North America and China.",
+        "label": 3,
+        "idx": 57341
+    },
+    {
+        "question": "Study Suggests Spaceflight May Decrease Human Immunity NASA -- A NASA-funded study has found the human body's ability to fight off disease may be decreased by spaceflight. The effect may even linger after an astronaut's return to Earth following long flights...",
+        "label": 3,
+        "idx": 45098
+    },
+    {
+        "question": "Westfield and Multiplex team up to bid for Chelsfield MELBOURNE: Global shopping mall owner Westfield Group will team up with Australian developer Multiplex Group to bid 585mil (US\\$1.",
+        "label": 2,
+        "idx": 57584
+    },
+    {
+        "question": "Bollywood megastar Bachchan meets Pakistani students to boost ties (AFP) AFP - Bollywood mega star Amitabh Bachchan met with a group of Pakistani students as part of a wider initiative to deepen cultural ties between India and Pakistan.",
+        "label": 0,
+        "idx": 1566
+    },
+    {
+        "question": "Australia music industry decries Kazaa Lawyers for Australia #39;s recording industry branded the popular Kazaa file-swapping network  quot;an engine of copyright piracy to a degree of magnitude never before seen quot; as ",
+        "label": 2,
+        "idx": 103583
+    },
+    {
+        "question": "Sistani Urges Supporters to Wait at Najaf Gates Iraq #39;s top Shi #39;ite cleric Grand Ayatollah Ali al-Sistani urged his supporters converging on Najaf on Thursday not to enter the battered holy city until he arrived, a senior aide said.",
+        "label": 0,
+        "idx": 10271
+    },
+    {
+        "question": "Microsoft Sues Software Pirates This week Microsoft launched nearly 80 lawsuits against resellers it claims were distributing used or fake certificates of authenticity.",
+        "label": 3,
+        "idx": 106995
+    },
+    {
+        "question": "Young Rebuffs NBA, Sticks With Rangers (AP) AP - Chris Young never expected to have to chose again between baseball and basketball. The Texas Rangers helped make it an easy decision for the 6-foot-10 pitcher.",
+        "label": 1,
+        "idx": 96577
+    },
+    {
+        "question": "McNealy: Pulling Out A Tough Quarter At Sun Keep praising your troops and maybe they #39;ll win the fight. Sun Microsystems (nasdaq: SUNW - news - people ) Chief Executive Scott McNealy saw good in earnings that were somewhat worse than expected.",
+        "label": 2,
+        "idx": 62933
+    },
+    {
+        "question": "EU delays disputed GMO decision, says time not ripe The European Commission put off Wednesday a controversial decision on levels of genetically-modified organisms (GMO) in seeds in the EU, in a move welcomed by environmental lobbyists.",
+        "label": 2,
+        "idx": 21606
+    },
+    {
+        "question": "Samsung demos future memory chips It's getting harder to shrink chips, but Samsung has prototypes that show that the relentless pace of the industry continues.",
+        "label": 3,
+        "idx": 34865
+    },
+    {
+        "question": "Sudan says no Darfur self-rule, questions rebel talks Sudan on Monday ruled out any notion of self-rule for Darfur and said rebels in the western region would not secure the same concessions agreed with southern rebels after two decades of war.",
+        "label": 0,
+        "idx": 49820
+    },
+    {
+        "question": "Did Google Bomb New Directories Online? Looks That Way! Did Google Bomb New Directories Online? Looks That Way!\\\\A few weeks have gone by now and the results from Googles new update are in. As we take a closer look we see a pattern emerging. It seems as though, older more established directories are being rewarded once again. Many newer ...",
+        "label": 3,
+        "idx": 67350
+    },
+    {
+        "question": "Officials deny barring pro-democracy lawmaker A top Chinese official yesterday defended his government #39;s decision to bar a Hong Kong pro-democracy lawmaker from entering the mainland, saying customs authorities acted legally.",
+        "label": 0,
+        "idx": 14248
+    },
+    {
+        "question": "Netflix, TiVo Make Deal Official LOS GATOS, Calif. - Netflix Inc. and TiVo Inc. made official Thursday their deal to create a service that will use high-speed Internet connections to pipe DVD-quality movies into the homes of their mutual subscribers.",
+        "label": 3,
+        "idx": 48676
+    },
+    {
+        "question": "Biaggi breaks leg in training accident Italian MotoGP rider Max Biaggi has broken his leg in training and will be out of action for at least two months, ANSA news agency reported on Monday.",
+        "label": 1,
+        "idx": 84604
+    },
+    {
+        "question": "Thai queen urges nation to unite to end southern violence (AFP) AFP - Thailand's respected queen has made a rare public appeal for the nation to unite to end violence in the troubled Muslim-majority south where nearly 550 people have died this year.",
+        "label": 0,
+        "idx": 93289
+    },
+    {
+        "question": "Yen Recovers After Slipping on Japan Data  TOKYO (Reuters) - The yen fell against the dollar on Friday  following a surprise rise in Japan's unemployment rate, but it  quickly recovered as traders turned their attention to an  upcoming speech from the Federal Reserve chief and U.S. growth  data.",
+        "label": 2,
+        "idx": 11373
+    },
+    {
+        "question": "Sheffield Says He Unknowingly Used Steroids  NEW YORK (Reuters) - New York Yankees slugger Gary  Sheffield says he unknowingly used an illegal steroid obtained  from BALCO during the 2002 season, Major League Baseball's  official Web Site said Tuesday quoting a magazine article.",
+        "label": 1,
+        "idx": 51237
+    },
+    {
+        "question": "Redskins cut former starter Ohalete ASHBURN, Va. (AP) -- He was demoted to third string a couple weeks ago, didn #39;t do exactly what the coaches wanted and was coming off a bad game. Ifeanyi Ohalete knew what was coming next. ",
+        "label": 1,
+        "idx": 1710
+    },
+    {
+        "question": "Turkey must strengthen reforms to sustain growth: OECD (AFP) AFP - Turkey must strengthen market-economy reforms to sustain growth and promote confidence and to attract crucial international investments, the OECD said in a report.",
+        "label": 2,
+        "idx": 67244
+    },
+    {
+        "question": "Yankees Walk to Win A bases-loaded walk from the O's Jorge Julio in the ninth gives the Yankees a 4-3 win over the Orioles.",
+        "label": 1,
+        "idx": 19338
+    },
+    {
+        "question": "Jones sues BALCO founder, denies steroid use Olympic athletics champion Marion Jones filed a defamation lawsuit yesterday against BALCO head Victor Conte, who told a US television audience that he gave her steroids and watched her inject herself with them.",
+        "label": 1,
+        "idx": 117334
+    },
+    {
+        "question": "Olympic Swimmer Phelps #39; DUI Trial Set SALISBURY, Md. Nov 30, 2004 - Olympic swimming champion Michael Phelps #39; drunken driving trial was set for Dec. 29. Phelps, 19, was stopped by a state trooper on Nov. 4 for running a stop sign in Salisbury.",
+        "label": 1,
+        "idx": 105470
+    },
+    {
+        "question": "Japan Stocks Flat After Wall Street  TOKYO (Reuters) - The Nikkei average was flat in  mid-morning trade on Wednesday, bolstered by bargain-hunting of  a number of blue-chip stocks after U.S. stocks showed  resilience despite a rise in oil prices to new highs.",
+        "label": 2,
+        "idx": 51194
+    },
+    {
+        "question": "Israeli Settler Pay Approved, Sharon Faces Threats  JERUSALEM (Reuters) - Israel's security cabinet approved  cash advances on Tuesday to entice Gaza settlers to evacuate  their homes, while police investigated death threats against  Prime Minister Ariel Sharon sparked by his pullout plan.",
+        "label": 0,
+        "idx": 27448
+    },
+    {
+        "question": "'Tough on terror' platform reigns (USATODAY.com) USATODAY.com - One TV ad shows a dark-haired \"terrorist\" scoping out a nuclear power plant through binoculars and taking photos of a passing train. Another shows black smoke pouring from the World Trade Center towers.",
+        "label": 0,
+        "idx": 33545
+    },
+    {
+        "question": "High Turnout Reported for Ghana #39;s National Elections Vote counting has begun in Tuesday #39;s general election in Ghana, where President John Kufuor is widely expected to win re-election.",
+        "label": 0,
+        "idx": 110000
+    },
+    {
+        "question": "Dollar Slips After Greenspan Remarks  NEW YORK (Reuters) - The dollar slipped  on Friday, after  Federal Reserve Chairman Alan Greenspan's remarks on the U.S.  trade gap and on foreign demand for dollar-denominated  assets.",
+        "label": 2,
+        "idx": 96123
+    },
+    {
+        "question": "Deng work goes on, says Hu The achievements and theories of the late leader Deng Xiaoping will continue to change and influence China and the world, President Hu Jintao said yesterday.",
+        "label": 0,
+        "idx": 6882
+    },
+    {
+        "question": "79 Haiti Deaths Tallied in Violent Month The executions of four young men in a slum stronghold of ousted President Jean-Bertrand Aristide brought to at least 79 the number killed in a month of violence in Haiti #39;s capital.",
+        "label": 0,
+        "idx": 78217
+    },
+    {
+        "question": "HP bags \\$500 million outsourcing deal Hewlett-Packard on Wednesday said it has received a \\$500 million contract to provide global IT services for WestLB, a European commercial bank and financial services firm.",
+        "label": 2,
+        "idx": 66408
+    },
+    {
+        "question": "Stocks Decline Despite Slide in Oil Prices Stock prices fell in early trading today with investors collecting some profits after Wednesday's gains.",
+        "label": 2,
+        "idx": 10739
+    },
+    {
+        "question": "Typhoon Meari Hits South Japan, Triggers Floods  TOKYO (Reuters) - A record eighth typhoon swept through  southern Japan on Wednesday, killing at least two people,  triggering floods and strong winds that forced the evacuation  of tens of thousands.",
+        "label": 0,
+        "idx": 43709
+    },
+    {
+        "question": "Sanz Wins Four Awards at Latin Grammys LOS ANGELES - Latin Grammy favorite Alejandro Sanz won four awards and Brazilian jazz songstress Maria Rita collected two Wednesday at a ceremony aimed at uniting Spanish- and Portugese-language music with the flash and sizzle of American pop.    Sanz won the male pop vocal album award and album of the year for \"No Es Lo Mismo\" and took home song of the year and record of the year trophies for writing and performing the album's title track...",
+        "label": 0,
+        "idx": 16798
+    },
+    {
+        "question": "IBM, Cisco forge enterprise security tie OCTOBER 14, 2004 (IDG NEWS SERVICE) - IBM and Cisco Systems Inc. unveiled product updates that will tie technology from the two companies more closely together in an effort to secure customer networks from worms and viruses.",
+        "label": 3,
+        "idx": 60509
+    },
+    {
+        "question": "British, Spanish tourists stranded for four days in Bolivian Andes (AFP) AFP - A group of 250 mainly European tourists was stranded for four days in the Bolivian Andes after indigenous protestors blocked roads amid a territorial dispute, the Interior Ministry said.",
+        "label": 0,
+        "idx": 71216
+    },
+    {
+        "question": "Utah Slips in BCS Poll Despite walloping Colorado State, 63-31, to extend their record to a school-best 9-0, the Utes watch their ranking in the Bowl Championships Series standings drop a spot to seventh.",
+        "label": 1,
+        "idx": 85233
+    },
+    {
+        "question": "E-Voting Research Delayed, Experts Say (AP) AP - After nearly 50,000 Michigan Democrats cast ballots over the Internet in February, academics eagerly sought election data that would help them determine what types of people voted online. But scholars around the country complain that they haven't been able to get statistics from the Feb. 7 caucus.",
+        "label": 3,
+        "idx": 56155
+    },
+    {
+        "question": "Report: 18 Dead, 22 Hurt in Iran Accident (AP) AP - A truck slammed into three vehicles Sunday in southern Iran, killing at least 18 people and injuring 22, state-run television reported.",
+        "label": 0,
+        "idx": 32609
+    },
+    {
+        "question": "Sweden Opens Hockey World Cup with Win Over Germany Toronto Maple Leafs captain Mats Sundin shone in Sweden #39;s opening 5-2 win over Germany at the World Cup of Hockey Tuesday, scoring once and providing two assists in a match with contrasting team tactics.",
+        "label": 1,
+        "idx": 15778
+    },
+    {
+        "question": "HD DVD Gains Studio Support in Battle with Blu-Ray The battle between Blu-ray and HD DVD to define the next generation DVD format shows no signs of cooling off. While electronics and computer companies such as Sony, Dell and HP back the Blu-ray ",
+        "label": 3,
+        "idx": 105704
+    },
+    {
+        "question": "UPDATE 1-Fed #39;s Gramlich: Impact from costlier oil inevitable Costlier imported oil is bound to have some negative economic impact on the US economy, but it does not mean policymakers can lose sight of their long-term goal of keeping inflation under control, Federal Reserve Governor ",
+        "label": 2,
+        "idx": 30096
+    },
+    {
+        "question": "Real Madrid Soccer Match Abandoned After Bomb Threat (Update1) Real Madrid #39;s home match yesterday against Real Sociedad was abandoned in the 87th minute after a bomb hoax, the Spanish soccer club said.",
+        "label": 1,
+        "idx": 113983
+    },
+    {
+        "question": "Gibbs Returns with Win as Redskins Edge Buccaneers (Reuters) Reuters - Clinton Portis ran 64 yards for a\\touchdown and had 164 yards rushing as the Washington Redskins\\used a stifling defense to edge the Tampa Bay Buccaneers 16-10\\on Joe Gibbs' NFL return Sunday.",
+        "label": 1,
+        "idx": 25502
+    },
+    {
+        "question": "Invitation to a Titanic sinking? It is difficult to convey the shock I felt on reading the allegations that Conrad Black, David Radler, and the rest of the Hollinger insiders had helped themselves to 95.",
+        "label": 2,
+        "idx": 17609
+    },
+    {
+        "question": "Study: As much as 50 of Viagra sold online is fake (National) Sept. 29, 2004 - A British study shows as much as half of the Viagra sold on the Internet is not the real thing. Some of the pills have totally different ingredients.",
+        "label": 3,
+        "idx": 44091
+    },
+    {
+        "question": "Indonesian Cleric Bashir's Trial Starts Oct 28 (Reuters) Reuters - The trial of Indonesian\\cleric Abu Bakar Bashir over charges related to the Bali and\\Marriott bombings will begin on Oct. 28, a court official said\\on Monday.",
+        "label": 0,
+        "idx": 63348
+    },
+    {
+        "question": "SEC Settles with Ahold, Execs The Securities and Exchange Commission has filed enforcement actions against Royal Ahold NV and three former executives, alleging fraud and other violations stemming from the Dutch food giant #39;s massive accounting scandal.",
+        "label": 2,
+        "idx": 60110
+    },
+    {
+        "question": "Strategy for partnership With the European Unions (EU) expansion to 25 countries, it now accounts for 28 of world GDP and a market of 450 million. That closer commercial relationships with EU are desirable is obvious.",
+        "label": 0,
+        "idx": 85969
+    },
+    {
+        "question": "Karzai braves rally outside Kabul Afghan leader Hamid Karzai holds his only campaign rally outside Kabul, four days ahead of presidential polls.",
+        "label": 0,
+        "idx": 50358
+    },
+    {
+        "question": "Around The Region Apache Corp., an oil and natural gas producer, increased its shareholder dividend by 33 percent after gains in energy prices and output boosted the company #39;s profits.",
+        "label": 2,
+        "idx": 30474
+    },
+    {
+        "question": "Frances Roars Into Fla., Cuts Power to 2M FORT PIERCE, Fla. - Massive Hurricane Frances trudged ashore with 115 mph wind and pelting rain late Saturday, knocking out power to 2 million people and forcing Floridians to endure a frightening night amid roaring gales that shredded roofs and uprooted trees...",
+        "label": 0,
+        "idx": 18741
+    },
+    {
+        "question": "That's enough peace - Novell sues MS just one more time 'Ransack the church' suggested in WordPerfect war",
+        "label": 3,
+        "idx": 89362
+    },
+    {
+        "question": "American Lowers  #39;Walk-Up #39; Fares, Cuts Restrictions For S. Florida &lt;b&gt;...&lt;/b&gt; FORT WORTH, Texas -- American Airlines has unveiled a new simplified domestic fare structure and eliminated many fare restrictions, including all Saturday night stay requirements on the Fort Worth-based airline, as well as American Eagle and ",
+        "label": 2,
+        "idx": 95433
+    },
+    {
+        "question": "Czechs keep  #39;em guessing One thing you have to give Team Czech Republic, they #39;re not boring and they certainly keep you guessing about what they are going to do next.",
+        "label": 1,
+        "idx": 17972
+    },
+    {
+        "question": "Ten including 5 Indian troops killed in Kashmir violence SRINAGAR (India held-Kashmir): Five Indian army personnel including a Captain were killed and 45 others injured when a car packed with explosives rammed into an army convoy in Baramulla district Saturday.",
+        "label": 0,
+        "idx": 55995
+    },
+    {
+        "question": "Aussies Pull Out of Pakistan Field Hockey ISLAMABAD, Pakistan - Olympic field hockey champion Australia pulled out of a December tournament in Pakistan because of security fears.",
+        "label": 1,
+        "idx": 57791
+    },
+    {
+        "question": "Australian Stocks Rise; Metcash Has Biggest Gain Since 2001 Australian stocks rose as Metcash Trading Ltd. had its biggest gain in almost four years after Citigroup Inc. raised the stock #39;s rating, citing an offer to buy Foodland Associated Ltd.",
+        "label": 2,
+        "idx": 30613
+    },
+    {
+        "question": "A War and a Mystery: Confronting Avian Flu A spate of recent deaths has stirred fears of a broader outbreak among people and raised the possibility of a human pandemic.",
+        "label": 3,
+        "idx": 58004
+    },
+    {
+        "question": "Floods Recede in Philippines Helicopters delivered food to survivors and picked up the sick and injured on Friday as flash floods began to recede. More than 650 people were killed and nearly 400 are missing in the disaster, which was triggered by back-to-back storms.",
+        "label": 0,
+        "idx": 108899
+    },
+    {
+        "question": "Auburn wants repeat of last year #39;s play vs. Vols After two ugly losses and two lightweight wins, the Auburn Tigers finally had a chance to prove their mettle against Tennessee last season.",
+        "label": 1,
+        "idx": 43146
+    },
+    {
+        "question": "Olympic Games Hit Stride with Medals Free-For-All  ATHENS (Reuters) - Norway, Germany, France, Britain  Romania, New Zealand and Australia all looted the gold-medal  chest in the Athens Olympic rowing basin on Saturday, as Greece  counted the cost of the Games in national pride and treasure.",
+        "label": 1,
+        "idx": 5622
+    },
+    {
+        "question": "Explosion in Chinese mine kills 56 AP - A gas explosion in a coal mine in China has killed at least 56 miners, and 92 others listed as missing had only a slim chance of survival, officials say.",
+        "label": 0,
+        "idx": 67174
+    },
+    {
+        "question": "Little change seen in Dec. 14 statement WASHINGTON (CBS.MW) - Every Federal Open Market Committee meeting contains a flavor of mystery as officials gather behind closed doors to hold crucial discussions about the economic forecast and to make decisions on interest rates.",
+        "label": 2,
+        "idx": 113461
+    },
+    {
+        "question": "Computer Q amp;A: Tips on installing Windows XP SP2 It seems that Microsoft #39;s new upgrade to Windows is making some people nervous. That #39;s not surprising, as home and office computing environments are just not as friendly as they used to be due to viruses and spyware. Even the software we ...",
+        "label": 3,
+        "idx": 3548
+    },
+    {
+        "question": "Airways pilots extend talks Pilots for US Airways are continuing to negotiate this weekend over the Arlington airline #39;s demand for a 16.5 percent pay cut, despite a warning from management that negotiations should have concluded yesterday.",
+        "label": 2,
+        "idx": 5908
+    },
+    {
+        "question": "Acer confident of rise in global PC sales Taipei - Acer, the world #39;s fifth-largest brand-name personal computer vendor, said global sales in its core business are expected to rise 30-40 percent in 2005 from the 205-215 billion Taiwan dollars (R37.",
+        "label": 2,
+        "idx": 80544
+    },
+    {
+        "question": "Hamm Can Keep Gold Paul Hamm can keep his Olympic gold medal. Sports' highest court rejected a South Korean appeal Thursday, ruling that Hamm is the rightful champion in the men's all-around gymnastics competition at the Athens Games.",
+        "label": 1,
+        "idx": 67419
+    },
+    {
+        "question": "Intel's Montecito now expected in 2006 Montecito, the first dual-core chip based on Intels Itanium 2 architecture, will not begin shipping in volume until 2006, company executives said last week.",
+        "label": 3,
+        "idx": 89579
+    },
+    {
+        "question": "Intel Silent on Jayhawk Replacement Chip maker offers few details about its plans for dual-core server processors.",
+        "label": 3,
+        "idx": 21811
+    },
+    {
+        "question": "NBA players and supporters charged Five memebrs of the National Basketball Association #39;s Indiana Pacers and seven supporters have been charged over the melee that broke out at the end of a nationally televised game against ",
+        "label": 1,
+        "idx": 111026
+    },
+    {
+        "question": "Microsoft to charge for Hotmail-Outlook link Microsoft Corp. on Monday will start charging for a Hotmail feature that allows users of the Web-based e-mail service to access their e-mail using the Outlook e-mail client.&lt;p&gt;ADVERTISEMENT&lt;/p&gt;&lt;p&gt;&lt;img src=\"http://ad.doubleclick.net/ad/idg.us.ifw.general/sbcspotrssfeed;sz=1x1;ord=200301151450?\" width=\"1\" height=\"1\" border=\"0\"/&gt;&lt;a href=\"http://ad.doubleclick.net/clk;9228975;9651165;a?http://www.infoworld.com/spotlights/sbc/main.html?lpid0103035400730000idlp\"&gt;SBC Case Study: Crate   Barrel&lt;/a&gt;&lt;br/&gt;What sold them on improving their network? A system that could cut management costs from the get-go. Find out more.&lt;/p&gt;",
+        "label": 3,
+        "idx": 41076
+    },
+    {
+        "question": "Let the Handheld Games Begin It #39;s the fight computer gamers have been waiting for. But the latest duel between wise old master Nintendo and challenger Sony is not taking place on a TV screen.",
+        "label": 3,
+        "idx": 96471
+    },
+    {
+        "question": "Exec arrested in Singapore scandal The chief executive of embattled China Aviation Oil (CAO) Singapore Corp. Ltd. was arrested Wednesday in Singapore #39;s biggest trading scandal since the fall of Barings Bank in 1995.",
+        "label": 2,
+        "idx": 109992
+    },
+    {
+        "question": "Robot rescuer for Hubble? NEW YORK The American space agency is becoming increasingly optimistic that the failing Hubble Space Telescope can be revived and rejuvenated by a robot rescuer.",
+        "label": 3,
+        "idx": 10302
+    },
+    {
+        "question": "Race on to Build Fiber Optic Networks - Alvarion  TEL AVIV (Reuters) - Broadband services using fiber optic  networks are expected to grow in the coming years with the race  now on among companies to develop this technology, the chairman  of Israel's Alvarion Ltd. &lt;A HREF=\"http://www.reuters.co.uk/financeQuoteLookup.jhtml?ticker=ALVR.O qtype=sym infotype=info qcat=news\"&gt;ALVR.O&lt;/A&gt; said on Tuesday.",
+        "label": 3,
+        "idx": 85634
+    },
+    {
+        "question": "TV coverage confirmed AUSTRALIA #39;S  quot;last frontier quot; Test cricket series against India will be shown on live television in this country following an 11th hour TV rights deal.",
+        "label": 1,
+        "idx": 45932
+    },
+    {
+        "question": "Dollar Hovers Above Lows, No Respite Seen  TOKYO (Reuters) - The dollar hovered just above multi-month  lows on Tuesday as nagging worries about the strength of the  U.S. economy and the gaping trade deficit kept investors on the  back foot.",
+        "label": 2,
+        "idx": 72356
+    }
+]

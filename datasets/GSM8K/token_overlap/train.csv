@@ -1,0 +1,47 @@
+text,first_piece,second_piece,label
+"Lisa was collecting socks to donate to a homeless shelter. She bought 12 pairs at a discount store. Sandra, her friend, came over and brought her 20 pairs of socks. Her cousin showed up with one-fifth the number of pairs that Sandra bought. After work, Lisa’s mom brought 8 more than three times the number of pairs Lisa started with. How many pairs of socks did Lisa end up with?",Lisa was collecting socks to donate to a homeless shelter. She bought 12 pairs at a discount store.,"Sandra, her friend, came over and brought her 20 pairs of socks. Her cousin showed up with one-fifth the number of pairs that Sandra bought. After work, Lisa’s mom brought 8 more than three times the number of pairs Lisa started with. How many pairs of socks did Lisa end up with?","Her cousin brought over 20/5=<<20/5=4>>4 pairs of socks
+Three times more than Lisa bought was 12*3=<<12*3=36>>36
+Her mom brought 36+8=<<36+8=44>>44 pairs of socks
+In total Lisa had 12+20+4+44=<<12+20+4+44=80>>80 pairs of socks
+#### 80"
+"A notebook costs three times as much as a pen. If a pen costs $1.50, how much will Lyle pay for 4 notebooks?",A notebook costs three times as much as a pen.,"If a pen costs $1.50, how much will Lyle pay for 4 notebooks?","A notebook costs $1.50 x 3 = $<<1.5*3=4.50>>4.50.
+So Lyle will pay $4.50 x 4 = $<<4*4.5=18>>18 for the 4 notebooks.
+#### 18"
+"Phyllis has two gardens. In the first garden, she has 20 plants and 10% are tomato plants. In the second garden, she has 15 plants and 1/3 of these plants are tomato plants. What percentage of all the plants in her two gardens are tomato plants?",Phyllis has two gardens.,"In the first garden, she has 20 plants and 10% are tomato plants. In the second garden, she has 15 plants and 1/3 of these plants are tomato plants. What percentage of all the plants in her two gardens are tomato plants?","The first garden has 2 tomato plants because 20 x .1 = <<20*.1=2>>2
+The second garden has 5 tomato plants because 15 x (1/3) = <<15*(1/3)=5>>5
+She has 7 tomato plants in total because 2 + 5 = <<2+5=7>>7
+She has 35 plants in total because 20 + 15 = <<20+15=35>>35
+The proportion of tomato plants is .2 because 7 / 35 = <<7/35=.2>>.2
+The percentage of tomato plants is 20 because .2 x 100 = <<.2*100=20>>20
+#### 20"
+"Tropical Storm Sally brings 3 days of rain to southern Texas.  The first day it rained 4 inches.  The second day it rained 5 times as much as the first day, and the third day it rained 6 inches less than the sum of the first two days.  How much did it rain on the third day?",Tropical Storm Sally brings 3 days of rain to southern Texas. The first day it rained 4 inches.,"The second day it rained 5 times as much as the first day, and the third day it rained 6 inches less than the sum of the first two days. How much did it rain on the third day?","First Day:<<4=4>>4 inches
+Second Day: 5(4)=20 inches
+Third Day: (4+20)-6=<<(4+20)-6=18>>18 inches
+#### 18"
+"Lena has 16 candy bars. She needs 5 more candy bars to have 3 times as many as Kevin, and Kevin has 4 candy bars less than Nicole. How many more candy bars does Lena have than Nicole?","Lena has 16 candy bars. She needs 5 more candy bars to have 3 times as many as Kevin, and Kevin has 4 candy bars less than Nicole.",How many more candy bars does Lena have than Nicole?,"Kevin has (16 + 5)/3 = <<(16+5)/3=7>>7 candy bars.
+Nicole has 7 + 4 = <<7+4=11>>11 candy bars.
+Lena has 16 - 11 = <<16-11=5>>5 more candy bars than Nicole
+#### 5"
+"A cook had 300 carrots in a bucket he was using to cook meals for a restaurant. Before lunch, he had used 2/5 of the carrots. By the end of the day, he had chopped and used 3/5 of the remaining carrots. How many carrots were not used that day?","A cook had 300 carrots in a bucket he was using to cook meals for a restaurant. Before lunch, he had used 2/5 of the carrots.","By the end of the day, he had chopped and used 3/5 of the remaining carrots. How many carrots were not used that day?","Before lunch, the cook had used 2/5*300 = <<2/5*300=120>>120 carrots.
+The number of remaining carrots after the cook used 2/5 of them is 300-120 = <<300-120=180>>180.
+The cook had used 3/5*180 = <<3/5*180=108>>108 of the remaining carrots by the end of the day.
+The number of carrots that the cook did not use that day is 180-108 = <<180-108=72>>72.
+#### 72"
+Hannah bought 3 sweatshirts and 2 T-shirts. Each sweatshirt cost 15$ and each t-shirt cost 10$. How much money did Hannah spend in all?,Hannah bought 3 sweatshirts and 2 T-shirts. Each sweatshirt cost 15$ and each t-shirt cost 10$.,How much money did Hannah spend in all?,"3 sweatshirts cost 3 x 15 = <<3*15=45>>45$
+2 t-shirts cost 2 x 10 =<<2*10=20>>20 $
+In total Hannah spent 45 + 20 = <<45+20=65>>65$
+#### 65"
+"Tom has a job mowing lawns around his neighborhood. Each month he spends $17 on gas and mows 3 lawns, charging $12 per lawn mowed.  Last month he also made extra money pulling weeds for $10.  How much profit did Tom earn last month?","Tom has a job mowing lawns around his neighborhood. Each month he spends $17 on gas and mows 3 lawns, charging $12 per lawn mowed.",Last month he also made extra money pulling weeds for $10. How much profit did Tom earn last month?,"Tom earns 3 lawns * $12 per lawn = $<<3*12=36>>36 per month.
+Tom earned $36 + $10 = $<<36+10=46>>46 last month.
+Tom's profit last month was $46 - $17 gas money = $<<46-17=29>>29.
+#### 29"
+"Out of 480 employees, 10% got a salary increase while 20% got a travel allowance increase. How many employees did not get any increase?","Out of 480 employees, 10% got a salary increase while 20% got a travel allowance increase.",How many employees did not get any increase?,"480 x 10/100 = <<480*10/100=48>>48 employees got a salary increase.
+480 x 20/100 = <<480*20/100=96>>96 employees got a travel allowance increase.
+So a total of 48 + 96 = <<48+96=144>>144 employees got an increase.
+Therefore, 480 - 144 = <<480-144=336>>336 employees did not get any increase.
+#### 336"
+"Anna, Alison, and Jeff collect stamps. Anna had 37 stamps in her collection, Alison had 28 stamps in her collection, and Jeff had 31 stamps in his collection. Alison gave Anna half of her collection in exchange for a novel, and then Anna traded Jeff two bluebird stamps for one mountain stamp. How many stamps did Anna have in the end?","Anna, Alison, and Jeff collect stamps. Anna had 37 stamps in her collection, Alison had 28 stamps in her collection, and Jeff had 31 stamps in his collection. Alison gave Anna half of her collection in exchange for a novel, and then Anna traded Jeff two bluebird stamps for one mountain stamp.",How many stamps did Anna have in the end?,"Alison gave Anna 1/2 * 28 = 28/2 = <<1/2*28=14>>14 stamps.
+Adding Alison’s stamps to Anna’s collection means Anna has 14 + 37 = <<14+37=51>>51 stamps.
+Then Anna traded Jeff 2 stamps, so she had 51 - 2 = <<51-2=49>>49 stamps.
+Anna got 1 stamp back in the trade, so she had 49 + 1 = <<49+1=50>>50 stamps in the end.
+#### 50"

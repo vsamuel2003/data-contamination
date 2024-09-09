@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Xabi Reckons England Are Great Xabi Alonso is prepared for a hard battle when Spain meet England in the Bernabeu on Wednesday having experienced the build-up from the other side.",
+        "label": 1,
+        "idx": 5859
+    },
+    {
+        "question": "Automakers sue California over emissions FRESNO, Calif. -- Automobile manufacturers sued on Tuesday to block the world #39;s toughest vehicle emissions standards, adopted by California regulators in September to cut greenhouse gases.",
+        "label": 2,
+        "idx": 6938
+    },
+    {
+        "question": "Stunt pilots to save sun dust IT PROMISES to be a scene worthy of a science fiction spectacular. A space probe carrying primordial material scooped from outer space starts to plunge towards our planet. But before it can strike, a helicopter flown by a Hollywood stunt ...",
+        "label": 3,
+        "idx": 202
+    },
+    {
+        "question": "Many NHL players head for Europe National Hockey League players began scattering across the globe yesterday in search of work on Day 1 of the lockout, with no negotiations scheduled between union and management.",
+        "label": 1,
+        "idx": 1931
+    },
+    {
+        "question": "Glazer stake in Man Utd nears 30 US tycoon Malcolm Glazer lifts his stake in Manchester Utd to 28.11, one day after spending 17m on  further share buys.",
+        "label": 0,
+        "idx": 4088
+    },
+    {
+        "question": "IBM Quitting Computer Business An era will come to an end when IBM sells off its computer manufacturing business, according to The New York Times. A Chinese company seems the likely buyer and the deal should fetch upward of \\$2 billion.",
+        "label": 2,
+        "idx": 6847
+    },
+    {
+        "question": "Time Warner readies for accounting fallout NEW YORK Time Warner, the largest US media company and owner of America Online, said Wednesday that its third-quarter profit fell 7.8 percent as it set aside money to pay for potential penalties stemming from a government inquiry into its accounting ",
+        "label": 2,
+        "idx": 5062
+    },
+    {
+        "question": "Sony group to buy MGM A consortium led by Sony Corp. has agreed in principle to acquire famed Hollywood studio Metro-Goldwyn-Mayer Inc. for nearly \\$3 billion, MGM said late yesterday.",
+        "label": 2,
+        "idx": 1678
+    },
+    {
+        "question": "Smith setback for Windies West Indies have been forced to make a second change to their Champions Trophy squad because of injury. Dwayne Smith is suffering from a shoulder problem and has been replaced by Ryan Hinds.",
+        "label": 1,
+        "idx": 1069
+    },
+    {
+        "question": "Corporate Failures Hurt Pension Guaranty Group Description: A flurry of corporate bankruptcies in the past few years leaves a public agency strapped for cash: the Pension Benefit Guaranty Corporation.",
+        "label": 2,
+        "idx": 890
+    },
+    {
+        "question": "PeopleSoft customers reassured Oracle Corp. President Charles Phillips on Monday said PeopleSoft Inc. customers have become more comfortable with the prospect of a merger between the two software firms even as the proposed transaction awaits a critical ruling from a Delaware court.",
+        "label": 2,
+        "idx": 685
+    },
+    {
+        "question": "Disney takes sides in battle for next generation DVD Hollywood movie powerhouse Walt Disney has taken sides with Japans Sony Corp in a bitter battle between studios to define a technical standard for next generation DVDs, it said.",
+        "label": 3,
+        "idx": 7202
+    },
+    {
+        "question": "DHS faces IT management challenge, GAO says A  quot;formidable information and technology management challenge quot; faces the Homeland Security Department, according a report released today by the Government Accountability Office.",
+        "label": 3,
+        "idx": 2619
+    },
+    {
+        "question": "Mauresmo breezes through Amelie Mauresmo comfortably came through her first match since taking over at the top of the world rankings. The Frenchwoman reached the quarter-finals of the Porsche Grand Prix in Filderstadt with a 7-5 6-4 win over Switzerland #39;s Patty Schynder.",
+        "label": 1,
+        "idx": 3361
+    },
+    {
+        "question": "Afghan Army Dispatched to Calm Violence KABUL, Afghanistan - Government troops intervened in Afghanistan's latest outbreak of deadly fighting between warlords, flying from the capital to the far west on U.S. and NATO airplanes to retake an air base contested in the violence, officials said Sunday...",
+        "label": 0,
+        "idx": 39
+    },
+    {
+        "question": "Inzamam happy with win Captain Inzamam-ul-Haq praised his spinners after Pakistan knocked Kenya out of the Champions Trophy with a seven-wicket win at Edgbaston.",
+        "label": 1,
+        "idx": 1789
+    },
+    {
+        "question": "Soldier charged with murder A British soldier has been charged with the murder of a civilian in Iraq, police said. Trooper Kevin Lee Williams, 21, from the 2nd Royal Tank Regiment, is due to appear at Bow Street Magistrates Court.",
+        "label": 0,
+        "idx": 1303
+    },
+    {
+        "question": "Gas Prices Continue Slide, Down to  #36;1.93/gallon (Reuters) Reuters - U.S. average retail gasoline prices\\fell over the last two weeks and are poised to slip even\\further as crude oil prices continue to tumble, an industry\\analyst said on Sunday.",
+        "label": 2,
+        "idx": 4185
+    },
+    {
+        "question": "Int #39;l conference calls for mine-free world Senior officials of 143 governments are calling for the total ban of production and use of anti-personnel landmine. Senior government officials of 143 countries across the world ",
+        "label": 0,
+        "idx": 6543
+    },
+    {
+        "question": "Utes Pile It On Alex Smith throws for three touchdowns, rushes for two more and finishes with 435 yards of offense, and No. 20 Utah backs up its first preseason ranking with a 41-21 win over Texas A M.",
+        "label": 1,
+        "idx": 1102
+    },
+    {
+        "question": ".Mac bumps up storage capacity, improves mail (MacCentral) MacCentral - Apple has improved the services offered to subscribers of .Mac. Previously, the amount of storage for a basic .Mac account was 100MB, with a maximum of 15MB for e-mail. The service's base online storage has been increased to 250MB, e-mail service has been enhanced, and the cost of upgrading has been reduced. .Mac's basic subscription price remains the same -- US #36;99.95 per year.",
+        "label": 3,
+        "idx": 2764
+    },
+    {
+        "question": "Redskins Coach Bemoans Questionable Calls (AP) AP - Apparently even a Hall of Fame coach doesn't get a break from the officials.",
+        "label": 1,
+        "idx": 2723
+    },
+    {
+        "question": "Texans follow Astros #39; lead The News sports editor. HOUSTON - The Houston Astros weren #39;t the only team in the Bayou City toasting a watershed achievement Sunday afternoon.",
+        "label": 1,
+        "idx": 3166
+    },
+    {
+        "question": "Dependent species risk extinction The global extinction crisis is worse than thought, because thousands of  quot;affiliated quot; species also at risk do not figure in calculations.",
+        "label": 3,
+        "idx": 1452
+    },
+    {
+        "question": "Nation's cybersecurity chief abruptly quits DHS post Amit Yoran, the government's cybersecurity chief, abruptly resigned yesterday after a year at the Department of Homeland Security, a move that raised questions about the Bush administration's ability to quickly improve cybersecurity.",
+        "label": 3,
+        "idx": 2965
+    },
+    {
+        "question": "Pakistan turns up heat on al Qaeda Pakistani forces have been battling al Qaeda fighters in an ongoing operation to rout terrorists in a tribal area near the border with Afghanistan, Pakistani intelligence sources said.",
+        "label": 0,
+        "idx": 1739
+    },
+    {
+        "question": "LIFFE ratchets up price war with Merc Derivatives exchange LIFFE turned up the heat on rival Chicago Mercantile Exchange on Tuesday by ratcheting up its fee incentive program for some US traders in a bid improve volume in its Eurodollar contract, the CME #39;s flagship offering.",
+        "label": 2,
+        "idx": 4572
+    },
+    {
+        "question": "Italian PM, Gaddafi open gas pipeline in new era of  #39;friendship #39; MELLITAH, Libya : Italia #39;s Prime Minister Silvio Berlusconi and Libyan leader Muammar Gaddafi opened a gas pipeline between their countries in a new era of  quot;friendship and cooperation quot; across the Mediterranean.",
+        "label": 0,
+        "idx": 3389
+    },
+    {
+        "question": "Bureaucracy Pins Rocket to Earth The da Vinci Project, a Toronto group planning to launch a homemade, manned spacecraft in October, is having trouble getting its paperwork off the ground. Canadian regulators are leery of approving the launch. And then there's the matter of finding insurance. By Dan Brekke.",
+        "label": 3,
+        "idx": 706
+    },
+    {
+        "question": "Software giant Microsoft rings up multibillion dollar profit gain REDMOND, Washington, Oct 21 (AFP) - The world #39;s biggest software company, Microsoft Corp, said Thursday that its first quarter profits swelled to 2.9 billion dollars as consumers and businesses pumped up demand for new computers.",
+        "label": 2,
+        "idx": 4284
+    },
+    {
+        "question": "Noguchi Wins Marathon BULLETIN&lt;br&gt;BC-OLY--Women's Marathon RUN,0058&lt;br&gt;BULLETIN&lt;br&gt;    ATHENS, Greece (AP)  --  Mizuki Noguchi of Japan won the marathon Sunday in 2 hours, 26 minutes, 20 seconds.",
+        "label": 1,
+        "idx": 381
+    },
+    {
+        "question": "Spimming for Dollars Today #39;s new word, for all you dictionary freaks, is  quot;spim quot;. Spam  IM (Instant Messaging) = Spim. IM Spam. And for many IM companies it is the bane of their existence requiring increasingly aggressive filtering and block list capabilities.",
+        "label": 3,
+        "idx": 4965
+    },
+    {
+        "question": "NASA  #39;scramjet #39; makes historic flight off California LOS ANGELES NASA #39;s unmanned  quot;scramjet quot; proved it #39;s small but it #39;s fast -- in a record-breaking demonstration above the Pacific Ocean.",
+        "label": 3,
+        "idx": 5926
+    },
+    {
+        "question": "Siemens, Freescale Extend Auto Partnership Siemens VDO Automotive and Freescale Semiconductor have renewed their automotive relationship, representing about \\$245 million for components including ASICs, microcontrollers, analog and sensor components, beginning in 2006.",
+        "label": 3,
+        "idx": 2598
+    },
+    {
+        "question": "Oil Hits New High Over \\$48 as Iraq Violence Flares  LONDON (Reuters) - Oil prices struck a fresh record above  \\$48 a barrel on Thursday, spurred higher by renewed violence in  Iraq and fresh evidence that strong demand growth in China and  India has not been slowed yet by higher energy costs.",
+        "label": 2,
+        "idx": 253
+    },
+    {
+        "question": "Singh knocks Woods from No. 1 with victory at TPC of Boston For it to happen on Labor Day became a perfectly fitting reward for Vijay Singh, golf #39;s most noted laborer. The man from Fiji who closes practices ranges for a living opened a new door in world golf Monday.",
+        "label": 1,
+        "idx": 1271
+    },
+    {
+        "question": "Briefly: Israel, Egypt and US trade pact Egypt, Israel and the United States have reached an agreement that allows Egyptian industry to sell products using Israeli parts duty free in America.",
+        "label": 0,
+        "idx": 7344
+    },
+    {
+        "question": "Owners Seek Best Ballpark Deal for Expos (AP) AP - Trying to get the best possible ballpark deal for the Montreal Expos, major league baseball instructed its lawyers to press ahead with negotiations involving four of the areas bidding for the team.",
+        "label": 1,
+        "idx": 204
+    },
+    {
+        "question": "Not To Be Outfeatured, Yahoo Adds E-mail Storage (NewsFactor) NewsFactor - Yahoo (Nasdaq: YHOO) has beefed up e-mail storage for users of its free e-mail service from 100 megabytes to 250 MB. The Internet giant also unveiled an anti-spam authentication technology called DomainKeys, which curtails messages sent from spoofed addresses.",
+        "label": 3,
+        "idx": 5860
+    },
+    {
+        "question": "Cisco Melds Add-on Features Into Branch-Office Routers SEPTEMBER 13, 2004 (COMPUTERWORLD) - Cisco Systems Inc. tomorrow plans to announce an all-new line of branch-office routers that integrate basic routing capabilities with IP voice support, security tools and other functionality.",
+        "label": 3,
+        "idx": 1641
+    },
+    {
+        "question": "Gregg: I will help to close deal EVERTON chairman Bill Kenwright #39;s plans for a Russian revolution at Goodison Park may have thawed the cold war with director Paul Gregg.",
+        "label": 1,
+        "idx": 515
+    },
+    {
+        "question": "Gold Fields hit by Q3 rand strength JOHANNESBURG (Mineweb.com) -- Gold Fields, the takeover target of smaller rival Harmony, contained its costs on its South African mines during the September quarter.",
+        "label": 2,
+        "idx": 4735
+    },
+    {
+        "question": "Intel Cancels Revamped Chip The Intel Corporation said that it was canceling plans to market a faster version of its Pentium 4 chip to focus on products with \"more bang for the buck.\"",
+        "label": 3,
+        "idx": 3835
+    },
+    {
+        "question": "Will Putin misuse Beslan terrorism? THE UNSPEAKABLE tragedy in Beslan, the town in Southern Russia where terrorists seized a school on the first day of class and where more than 300 people ",
+        "label": 0,
+        "idx": 1605
+    },
+    {
+        "question": "Microsoft Takes Lead in PDA Software Microsoft Corp.'s software platform for personal digital assistants took over the market lead from PalmSource Inc. for the first time in the third quarter, according to market research released Friday.",
+        "label": 3,
+        "idx": 5639
+    },
+    {
+        "question": "Iraq's Neighbors to Get Little for Environment Loss (Reuters) Reuters - Iraq's neighbors want tens of billions\\of dollars for environmental damage done in the 1990-1 Gulf\\conflict, but are set to get only paltry funds from the United",
+        "label": 3,
+        "idx": 6842
+    },
+    {
+        "question": "Spread of GM grass raises fears of crossbreeding Pollen from a genetically modified grass was found 21 kilometres from where it was planted, scientists reported in a study published Tuesday, raising fears of transgenic crossbreeding.",
+        "label": 2,
+        "idx": 2234
+    },
+    {
+        "question": "How airlines stand Here #39;s where some of the largest US and Canadian airlines stand in terms of restructuring their operations: - Air Canada: Will emerge from bankruptcy protection by end of September, with a smaller workforce, a reduced fleet, a focus on the no-frills ",
+        "label": 2,
+        "idx": 1530
+    },
+    {
+        "question": "Bush Declares Genocide in Sudan's Darfur (Reuters) Reuters - The United States declared on\\Thursday that the violence in Sudan's Darfur region amounted to\\genocide and urged the world to back an expanded African\\peacekeeping force to halt the bloodshed.",
+        "label": 0,
+        "idx": 1455
+    },
+    {
+        "question": "Red Sox Slugger Ortiz Named ALCS MVP (AP) AP - The biggest comeback in postseason baseball history began when David Ortiz had one of the greatest days in baseball history.",
+        "label": 1,
+        "idx": 4215
+    },
+    {
+        "question": "French Students Face New Head Scarf Ban PARIS - Millions of French students returned to school Thursday as a new law that bans Islamic head scarves from classrooms went into effect amid demands by Islamic radicals holding two French hostages in Iraq that the law be scrapped.    Muslim leaders in France, who had largely opposed the law, urged calm for the return to class...",
+        "label": 0,
+        "idx": 1064
+    },
+    {
+        "question": "Selig Welcomes Government Help In Steroids Scandal NEW YORK -- Baseball commissioner Bud Selig said Monday he would accept government intervention on steroid testing if the players #39; association refuses to change the current rules, which run for two more years.",
+        "label": 1,
+        "idx": 544
+    },
+    {
+        "question": "Holiday-Shopping Season Remains Sluggish (Reuters) Reuters - U.S. shoppers have kept a tight grip\\on their wallets this holiday season with indices on Tuesday\\showing sluggish sales in the second week of the  season.",
+        "label": 2,
+        "idx": 225
+    },
+    {
+        "question": "UPDATE: Air China Shares Up 8 On Hong Kong Debut HONG KONG (Dow Jones)--Air China Ltd. #39;s (0753.HK) stock gained 8 on its debut on the Hong Kong stock exchange Wednesday, and analysts said there is scope for slight further ",
+        "label": 2,
+        "idx": 7377
+    },
+    {
+        "question": "Edu  quot;devastated quot; as Arsenal future in doubt The Brazilian midfielder, 26, broke a bone during Tuesday #39;s League Cup victory over Everton - his comeback match after a calf injury.",
+        "label": 1,
+        "idx": 5496
+    },
+    {
+        "question": "Need for carbon sink technologies Climate scientists tell a conference that greater efforts should be made to pull CO2 from the atmosphere.",
+        "label": 3,
+        "idx": 1022
+    },
+    {
+        "question": "Senator Criticizes Europe #39;s Boeing Stance European leaders have been making false claims in a commercial-aircraft trade dispute pitting Boeing Co. (BA.N: Quote, Profile, Research) against its Europe-based rival Airbus, a US senator close to Boeing said on Thursday.",
+        "label": 2,
+        "idx": 1859
+    },
+    {
+        "question": "China's Lenovo to buy IBM's PC business TOKYO - China's Lenovo Group Ltd. signed a definitive agreement on Wednesday to acquire IBM Corp.'s personal computing division. Lenovo will pay US\\$1.25 billion in cash for the business, which is expected to transform it into the world's number three PC maker, the companies announced.",
+        "label": 3,
+        "idx": 6936
+    },
+    {
+        "question": "Cup chase lands in Dover When the green flag drops for today #39;s MBNA America 400 at Dover International Speedway, 43 drivers will be lined up to cross the start/finish line.",
+        "label": 1,
+        "idx": 2505
+    },
+    {
+        "question": "Producer Price Surge Fuels Inflation Fears Producer prices surged 1.7 percent in October, their sharpest monthly increase in nearly 15 years.",
+        "label": 0,
+        "idx": 5886
+    },
+    {
+        "question": "Oil prices send US stocks lower INVESTORS sent stocks sharply lower today as oil prices continued their climb higher and new questions about the safety of arthritis drugs pressured pharmaceutical stocks.",
+        "label": 2,
+        "idx": 3440
+    },
+    {
+        "question": "Israel Arrests Bombing Suspect, Kills 4 Militants (Reuters) Reuters - Israel dealt a double blow to the\\Palestinian Islamic group Hamas on Wednesday, arresting a West\\Bank leader held responsible for a twin suicide bus bombing\\that killed 16 and killing two militants in Gaza air strikes.",
+        "label": 0,
+        "idx": 3749
+    },
+    {
+        "question": "More buyers choose artificial Renee McDonald remembers the Christmas trees of her youth: spindly, fake and out of a box. They were hard to put up, and they just didn #39;t smell right.",
+        "label": 2,
+        "idx": 6566
+    },
+    {
+        "question": "Utah Hires Whittingham to Replace Meyer (AP) AP - Utah defensive coordinator Kyle Whittingham was hired as the school's football coach to replace Urban Meyer.",
+        "label": 1,
+        "idx": 6978
+    },
+    {
+        "question": "Spilled Oil, Gas Ignite in Iraq's South Rumaila Field  BASRA, Iraq (Reuters) - Oil and gas spilled during recent  sabotage attacks on Iraq's southern oil pipelines ignited  Sunday and firefighters battled to douse the flames.",
+        "label": 0,
+        "idx": 832
+    },
+    {
+        "question": "Clemens's exit opens door for Braves HOUSTON -- John Smoltz, Adam LaRoche, and J.D. Drew saved the Atlanta Braves from another quick playoff exit.",
+        "label": 1,
+        "idx": 3568
+    },
+    {
+        "question": "Afghanistan heads for vote count Afghans arrange votes in Kabul, capital of Afghanistan, Oct. 11, 2004. The Afghan Joint Electoral Management Body decided on Monday to suspend vote counting and start to investigate into the voting process.",
+        "label": 0,
+        "idx": 3644
+    },
+    {
+        "question": "Crowd Inspires Greek Beach Volleyballers; U.S. Duo Ousted  ATHENS (Reuters) - A roaring crowd helped inspire Greece's  top women's beach volleyball team to trounce China on Wednesday  and reach the next round.",
+        "label": 1,
+        "idx": 205
+    },
+    {
+        "question": "Afghan-Coalition Soldiers Kill 3, Wound 2 at Checkpoint Coalition forces in Afghanistan say that three people were killed and two others critically wounded when their pickup truck tried to run a checkpoint in the province of Ghazni.",
+        "label": 0,
+        "idx": 392
+    },
+    {
+        "question": "Palestinians investigate rumours that Israel poisoned Arafat THE Palestinian Authority is to set up an official commission of inquiry into Yasser Arafats death amid increasing rumours among the Palestinian public that he was poisoned by Israel.",
+        "label": 0,
+        "idx": 5961
+    },
+    {
+        "question": "China closes more Internet cafs Chinese authorities have between February and August of this year closed 1,600 Internet bars. In additional fines amounting to a total of 100 million yuan (9.",
+        "label": 3,
+        "idx": 4957
+    },
+    {
+        "question": "Office Depot Chairman, CEO Nelson Resigns Office Depot Inc. (ODP.N: Quote, Profile, Research) , the No. 2 US office supply chain, on Monday said Chairman and Chief Executive Officer Bruce Nelson has resigned and a search for his successor is underway.",
+        "label": 2,
+        "idx": 3098
+    },
+    {
+        "question": "Serena takes China title Serena Williams got back to winning ways with victory over US Open champion Svetlana Kuznetsova in the final of the China Open on Sunday.",
+        "label": 1,
+        "idx": 2529
+    },
+    {
+        "question": "Oracle uses Apple storage gear Apple Computer #39;s rack-mounted storage system received a vote of confidence Monday, with database giant Oracle endorsing the Xserve RAID as part of an initiative to cut storage costs.",
+        "label": 3,
+        "idx": 2165
+    },
+    {
+        "question": "Is PeopleSoft waiting for the right price? A company board member testifies in trial that a sale would be possible if Oracle ups its offer.",
+        "label": 3,
+        "idx": 3217
+    },
+    {
+        "question": "Stocks Open Flat, Waiting for Fed  NEW YORK (Reuters) - U.S. stocks opened flat on Tuesday as  investors took another pause after last week's big rally, with  the Fed expected to raise interest rates a quarter point on  Wednesday.",
+        "label": 2,
+        "idx": 5371
+    },
+    {
+        "question": "Robby Gordon Planning to Proceed With Caution Robby Gordon plans to join the oil spills, the tire chunks, the sharp pieces of debris and the other typical racetrack hazards on Sunday.",
+        "label": 1,
+        "idx": 2496
+    },
+    {
+        "question": "Shaving Time From The Virus Race IronPort Systems has launched the latest version of its IronPort C-Series E-mail Security Appliance, adding Virus Outbreak Filters that the company said could respond to new virus outbreaks within minutes.",
+        "label": 3,
+        "idx": 2608
+    },
+    {
+        "question": "Ahold to Sell Spain Operations to Permira (AP) AP - The Dutch supermarket retailer Ahold, seeking to streamline global operations and reduce debt, said Sunday it will sell its holdings in Spain to Permira Funds for about  #36;849 million.",
+        "label": 2,
+        "idx": 3052
+    },
+    {
+        "question": "Brokerage Settles Charges Over Mutual Fund Fees  A Fort Worth brokerage that sold high-fee mutual funds to military families agreed yesterday to pay \\$12 million to settle allegations that it used misleading marketing literature and scripts.",
+        "label": 2,
+        "idx": 7438
+    },
+    {
+        "question": "Dolphins' Fiedler Not Happy About Benching (AP) AP - Dave Wannstedt wasn't happy with Jay Fiedler on Saturday, and the feeling was mutual. Wannstedt benched Fiedler at halftime of the Miami Dolphins' 17-7 loss to the Tennessee Titans, and the quarterback said he was disappointed about the quick hook.",
+        "label": 1,
+        "idx": 1569
+    },
+    {
+        "question": "Cali Cartel Boss Sent to U.S. on Drug Charges  BOGOTA, Colombia (Reuters) - The former boss of the Cali  drug cartel, who once controlled most of the world's cocaine  trade, was sent to the United States on Friday to face  trafficking and money laundering charges.",
+        "label": 0,
+        "idx": 6879
+    },
+    {
+        "question": "Green Bay Packers INDIANAPOLIS (Ticker) -- The showdown between Peyton Manning and Brett Favre turned into an Arena Football League spectacle. Manning threw for 320 yards and five touchdowns in the first half when the Indianapolis ",
+        "label": 1,
+        "idx": 2544
+    },
+    {
+        "question": "US Stocks Up, Ford Forecast Gives a Lift  NEW YORK (Reuters) - U.S. blue chips advanced on Friday  after Ford Motor Co. &lt;A HREF=\"http://www.investor.reuters.com/FullQuote.aspx?ticker=F.N target=/stocks/quickinfo/fullquote\"&gt;F.N&lt;/A&gt; raised its earnings forecasts, while  wireless technology provider Qualcomm Inc. &lt;A HREF=\"http://www.investor.reuters.com/FullQuote.aspx?ticker=QCOM.O target=/stocks/quickinfo/fullquote\"&gt;QCOM.O&lt;/A&gt; limited  gains on the Nasdaq after saying an accounting review may  reduce pretax income.",
+        "label": 2,
+        "idx": 1958
+    },
+    {
+        "question": "China, ASEAN Agree to End Tariffs (AP) AP - China has reached agreement with the Association of Southeast Asian Nations, or ASEAN, on completely removing tariffs on merchandise goods by 2010 as part of a proposed free trade agreement, the Chinese Ministry of Commerce says.",
+        "label": 0,
+        "idx": 4528
+    },
+    {
+        "question": "Jennings in charge CAPE TOWN - Ray Jennings was appointed as the interim coach of South Africa #39;s national cricket side yesterday afternoon following the resignation earlier of the under-fire Eric Simons.",
+        "label": 1,
+        "idx": 3894
+    },
+    {
+        "question": "Japanese citizen reportedly taken hostage in Iraq The Islamic militant group of Abu Mussab al-Zarqawi reportedly claims to have taken a Japanese citizen hostage in Iraq. In a video shown on the Internet, the group threatens to execute him if Tokyo does not withdraw its troops from Iraq in 48 hours.",
+        "label": 0,
+        "idx": 4621
+    },
+    {
+        "question": "Arsenal's Unbeaten Streak Reaches 48 Games (AP) AP - Arsenal extended its unbeaten streak in the Premier League to 48 games Saturday, getting two goals from Thierry Henry in a 4-0 victory over Charlton and bouncing back from a Champions League tie.",
+        "label": 1,
+        "idx": 3018
+    },
+    {
+        "question": " #39;Grateful #39; Kabul hostages look forward to returning to work Three UN election workers who were freed yesterday nearly a month after being abducted in Afghanistan have spoken of their gratitude to the Afghan people for supporting them during their plight.",
+        "label": 0,
+        "idx": 6341
+    },
+    {
+        "question": "Rough ride won #39;t stop next X Prize shot The rolling experienced by SpaceShipOne on its first Ansari X Prize flight on Wednesday will not jeopardise the team #39;s chances of winning the \\$10 million purse, team members said in a post-flight briefing.",
+        "label": 3,
+        "idx": 2831
+    },
+    {
+        "question": "Taiwan Invites China To Air Talks Taiwan invited China to send envoys to the island to discuss direct charter flights on Monday, a day after Taiwan President Chen Shui-bian called for peace talks between the rivals.",
+        "label": 0,
+        "idx": 3587
+    },
+    {
+        "question": "Go save Hubble NASA should use the space shuttle and spacewalking astronauts to mount one last repair flight to the Hubble Space Telescope, and extend the life of one of the greatest scientific instruments ever made.",
+        "label": 3,
+        "idx": 7154
+    },
+    {
+        "question": "Eisner Says Ovitz Required Oversight Daily Michael D. Eisner appeared for a second day of testimony in the shareholder lawsuit over the lucrative severance package granted to Michael S. Ovitz.",
+        "label": 2,
+        "idx": 5893
+    },
+    {
+        "question": "Justices hear cases on shipping wine (USATODAY.com) USATODAY.com - States that block direct shipments of wine to consumers from out-of-state wineries faced skeptical comments from Supreme Court justices on Tuesday.",
+        "label": 0,
+        "idx": 6965
+    },
+    {
+        "question": "Nortel warns of lower Q3 revenue TORONTO - Nortel Networks warned Thursday its third-quarter revenue will be below the \\$2.6 billion US preliminary unaudited revenues it reported for the second quarter.",
+        "label": 2,
+        "idx": 1865
+    },
+    {
+        "question": "U.S.: Korea Cloud Not From Nuclear Blast (AP) AP - A huge mushroom cloud that reportedly billowed up from North Korea was not caused by a nuclear explosion, South Korean and U.S. officials said Sunday, but they said the cause was a mystery.",
+        "label": 0,
+        "idx": 1595
+    },
+    {
+        "question": "UConn passes first test Dan Orlovsky threw for 382 yards and tied his school record with five touchdown passes to lead Connecticut to a 52-14 win over Murray State yesterday in East Hartford.",
+        "label": 1,
+        "idx": 1171
+    },
+    {
+        "question": "Spurrier expected to replace Holtz Lou Holtz wanted his South Carolina players to focus on their game against Clemson. They suddenly have a lot more on their minds. Holtz will retire as coach at South Carolina ",
+        "label": 1,
+        "idx": 6146
+    },
+    {
+        "question": "Nakatani expects a big day at BC No stranger to brash statements, jockey Corey Nakatani has a firm goal for Saturday #39;s Breeders #39; Cup program at Lone Star Park.",
+        "label": 1,
+        "idx": 4743
+    },
+    {
+        "question": "Casagrande and Golbano out of Vuelta Italy #39;s Francesco Casagrande and Carlos Golbano of Spain have been declared unfit to start the Tour of Spain following pre-race blood tests.",
+        "label": 1,
+        "idx": 1060
+    }
+]

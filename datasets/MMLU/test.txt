@@ -1,0 +1,602 @@
+[
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | When the old woman in front of me dropped her glasses, I picked them up and gave them to her. Scenario 2 | I nabbed some money from my dad's jeans while he was sleeping to buy drugs.\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+        "label": "C",
+        "category": "moral_scenarios_test",
+        "idx": 748
+    },
+    {
+        "question": "This question refers to the following information.\n\"When the Portuguese go from Macao in China to Japan, they carry much white silk, gold, musk, and porcelain: and they bring from Japan nothing but silver. They have a great carrack which goes there every year and she brings from there every year about six hundred coins: and all this silver of Japan, and two hundred thousand coins more in silver which they bring yearly out of India, they employ to their great advantage in China: and they bring from there gold, musk, silk, copper, porcelains, and many other things very costly and gilded.\nWhen the Portuguese come to Canton in China to traffic, they must remain there but certain days: and when they come in at the gate of the city, they must enter their names in a book, and when they go out at night they must put out their names. They may not lie in the town all night, but must lie in their boats outside of the town. And, their time expired, if any man remains there, he is imprisoned.\"\nRalph Fitch, an account of his travels to the Far East, 1599 C.E.\nWhich of the following developments from the period 1450\u20131750 C.E. most directly undid the trade patterns mentioned in the first paragraph?\n(A) The eastward expansion of Russia\n(B) The Portuguese conquest of India\n(C) The establishment of the Tokugawa Shogunate\n(D) The Spanish conquest of Mexico",
+        "label": "C",
+        "category": "high_school_world_history_test",
+        "idx": 96
+    },
+    {
+        "question": " In his objection to \"the second prong of the libertarian case for open borders,\" Wellman responds to the objection that he is essentially denying that we have a right to freedom of movement. Which of the following is part of his response?\n(A) He would say this begs the question because the immigration question is identical to the freedom-of-movement question.\n(B) He would present an argument showing that there is actually no right to freedom of movement.\n(C) He would argue that some rights are not absolute (e.g., the right to marriage doesn't allow you to marry an unwilling partner).\n(D) He would use deontological premises to deductively conclude that unjust public policies are morally objectionable.",
+        "label": "C",
+        "category": "moral_disputes_test",
+        "idx": 184
+    },
+    {
+        "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+        "label": "B",
+        "category": "virology_test",
+        "idx": 7
+    },
+    {
+        "question": "Magna Carta was\n(A) An agreement in 1689 which guaranteed freedom of speech in Parliament\n(B) An agreement in 1215 between the King and his barons, which guaranteed certain protections for subjects\n(C) A constitutional document in the 19th century guaranteeing the right to vote\n(D) A document setting a complete Bill of Rights for England",
+        "label": "B",
+        "category": "international_law_test",
+        "idx": 16
+    },
+    {
+        "question": "Fiat money\n(A) is not backed by any precious commodity.\n(B) can be exchanged for gold.\n(C) is backed by gold but cannot be exchanged for it.\n(D) is not legal tender.",
+        "label": "A",
+        "category": "high_school_macroeconomics_test",
+        "idx": 371
+    },
+    {
+        "question": "If Nation A can produce a good at lower opportunity cost than Nation B can produce the same good it is said that\n(A) Nation A has comparative advantage in the production of that good.\n(B) Nation B has comparative advantage in the production of that good.\n(C) Nation A has absolute advantage in the production of that good.\n(D) Nation B has absolute advantage in the production of that good.",
+        "label": "A",
+        "category": "high_school_macroeconomics_test",
+        "idx": 182
+    },
+    {
+        "question": "Which statement about natural selection is most correct?\n(A) Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well.\n(B) Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes.\n(C) Adaptations beneficial at one time should generally be beneficial during all other times as well.\n(D) Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals.",
+        "label": "D",
+        "category": "high_school_biology_test",
+        "idx": 307
+    },
+    {
+        "question": "A resident of a state owned a large tract of virgin forest. The resident conveyed this tract \"to the people of the state in fee simple so long as said tract shall remain in its natural state (with exception for recreational, scientific, or educational purposes). \"Under state law, conveyances of real property to \"the people\" of the state are deemed to vest title in the state regarded as a legal entity, and custody over such property resides in an appointed official known as the director of environmental resources. The director granted a logging company the privilege to cut timber on a remote portion of the tract, together with incidental easements of way. The right of the logging company to cut and sell the timber that was to be cleared from the tract would be an example of a (an)\n(A) license.\n(B) easement appurtenant.\n(C) easement in gross.\n(D) profit-a-prendre.",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 529
+    },
+    {
+        "question": "Noradrenaline is the neurotransmitter between which of the two structures below?\n(A) parasympathetic pre- and post-ganglionic neurons\n(B) sympathetic pre- and post-ganglionic neurons\n(C) parasympathetic post-ganglionic neurons and target organs\n(D) sympathetic post-ganglionic neurons and target organs",
+        "label": "D",
+        "category": "anatomy_test",
+        "idx": 79
+    },
+    {
+        "question": "A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least three cups of green tea per day had a much lower incidence of depression. In an American newspaper article about this study, which of the following statements should not be made?\n(A) It is possible that people who drink green tea also tend to have healthier lifestyles than those who don't.\n(B) It is possible that people who drink green tea also tend to have a more positive outlook on life than those who don't.\n(C) Because this is observational data, the association between drinking green tea and a lower incidence of depression is not an indication of a causal relationship.\n(D) People who want to avoid depression should consider drinking green tea on a daily basis.",
+        "label": "D",
+        "category": "high_school_statistics_test",
+        "idx": 83
+    },
+    {
+        "question": "The phenomenon of beats results from sound\n(A) reflection.\n(B) refraction.\n(C) interference.\n(D) All of these.",
+        "label": "B",
+        "category": "conceptual_physics_test",
+        "idx": 128
+    },
+    {
+        "question": "This question refers to the following information.\nI am of opinion that the principal and true profession of the Courtier ought to be that of arms; which I would have him follow actively above all else, and be known among others as bold and strong, and loyal to whomsoever he serves. . . .\nI would have him well built and shapely of limb, and would have him show strength and lightness and suppleness, and know all bodily exercises that befit a man of war; whereof I think the first should be to handle every sort of weapon well on foot and on horse, to understand the advantages of each, and especially to be familiar with those weapons that are ordinarily used among gentlemen. . . .\nOur Courtier then will be esteemed excellent and will attain grace in everything, particularly in speaking. . . .\nI would have him more than passably accomplished in letters, at least in those studies that are called the humanities, and conversant not only with the Latin language but with the Greek, for the sake of the many different things that have been admirably written therein. Let him be well versed in the poets, and not less in the orators and historians, and also proficient in writing verse and prose, especially in this vulgar [vernacular] tongue of ours. . . .\nYou must know that I am not content with the Courtier unless he be also a musician and unless, besides understanding and being able to read notes, he can play upon divers instruments. . . .\nI wish our Courtier to guard against getting the name of a liar or a boaster, which sometimes befalls even those who do not deserve it.\n\u2014From Baldassare Castiglione's Book of the Courtier, 1528\nWhich of the following reforms would Castiglione most likely want to institute?\n(A) The creation of coeducational public high schools paid for by the state\n(B) The creation of male-only public high schools paid for by the state\n(C) The creation of public universities without tuition where all students of both genders could learn\n(D) The creation of private high schools for elite young men with many extracurricular activities",
+        "label": "D",
+        "category": "high_school_european_history_test",
+        "idx": 147
+    },
+    {
+        "question": " The term mappo is associated with which of the following?\n(A) The dharma\n(B) An age of decline\n(C) The golden age\n(D) Samurai",
+        "label": "B",
+        "category": "world_religions_test",
+        "idx": 144
+    },
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | When my step-mother stuck her hand in the blender to extract an ice cube, I made sure it was in the 'off' position. Scenario 2 | I painted my car a bright shade of purple.\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+        "label": "D",
+        "category": "moral_scenarios_test",
+        "idx": 366
+    },
+    {
+        "question": "Activation of a class of genes called sirtuins may help to\n(A) Prevent some diseases\n(B) Ward off dementias\n(C) Increase memory and intelligence\n(D) Produce emotional stability",
+        "label": "A",
+        "category": "human_aging_test",
+        "idx": 36
+    },
+    {
+        "question": "Behaviorist views have been criticized by other approaches for a number of reasons. Ethologists argued that the behaviorists ignored innate, built-in biases in learning due to evolution, but also disagreed with:\n(A) the use of the animals in laboratory experiments\n(B) the use of the humans in laboratory experiments\n(C) the use of the trial-and-error system\n(D) the use of the operant conditioning principle",
+        "label": "A",
+        "category": "professional_psychology_test",
+        "idx": 52
+    },
+    {
+        "question": " Corresponding to the practical aim of moral theory is the principle of\n(A) parsimony.\n(B) practical guidance.\n(C) explanatory power.\n(D) none of the above",
+        "label": "B",
+        "category": "moral_disputes_test",
+        "idx": 294
+    },
+    {
+        "question": "Using the model of AD and AS what happens in the short run to real GDP the price level and unemployment with more consumption spending (C)? REAL GDP \u00a0\u00a0\u00a0 PRICE LEVEL \u00a0\u00a0\u00a0 UNEMPLOYMENT\n(A) Increases \u00a0\u00a0\u00a0 Decreases \u00a0\u00a0\u00a0 Decreases\n(B) Decreases \u00a0\u00a0\u00a0 Increases \u00a0\u00a0\u00a0 Increases\n(C) Increases \u00a0\u00a0\u00a0 Increases \u00a0\u00a0\u00a0 Decreases\n(D) Decreases \u00a0\u00a0\u00a0 Decreases \u00a0\u00a0\u00a0 Decreases",
+        "label": "C",
+        "category": "high_school_macroeconomics_test",
+        "idx": 82
+    },
+    {
+        "question": "On Thursday, March 7, an owner's home was destroyed by fire. The owner's house was insured against such fire loss by an insurance company. According to the policy contract, the insured was required to notify the insurance company within 10 days following any loss due to fire or other catastrophe. The owner sued the insurance company to recover $750,000, which was the face amount that his home was insured for. The insurance company admitted that the owner's house was insured for that amount, though the company denied liability because it claimed that it had not received notice of the fire within the 10-day period as required by the policy. At trial, the owner calls his bookkeeper to testify. The bookkeeper proposes to testify that on March 11, the owner handed her an envelope and told her it contained a notice form for the insurance company, and that she mailed the envelope on his behalf. If the bookkeeper intends to establish that the envelope that the owner handed her contained the notice of fire loss, her proposed testimony is\n(A) admissible, because the owner's statement to her is non-hearsay.\n(B) admissible, because a letter properly mailed is presumed received in due course.\n(C) inadmissible, because the owner's statement to the bookkeeper is not the best evidence.\n(D) inadmissible, because the owner's statement to the bookkeeper is hearsay not within any exception.",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 66
+    },
+    {
+        "question": "A stone is thrown horizontally with an initial speed of 10 m/s from a bridge. Assuming that air resistance is negligible, how long would it take the stone to strike the water 80 m below the bridge?\n(A) 1 s\n(B) 2 s\n(C) 4 s\n(D) 8 s",
+        "label": "C",
+        "category": "high_school_physics_test",
+        "idx": 108
+    },
+    {
+        "question": "This question refers to the following information.\nThe excerpts below are from the Navigation Acts of 1651.\n[A]fter the first day of December, one thousand six hundred fifty and one, and from thence forwards, no goods or commodities whatsoever of the growth, production or manufacture of Asia, Africa or America, or of any part thereof; or of any islands belonging to them, or which are described or laid down in the usual maps or cards of those places, as well of the English plantations as others, shall be imported or brought into this Commonwealth of England, or into Ireland, or any other lands, islands, plantations, or territories to this Commonwealth belonging, or in their possession, in any other ship or ships, vessel or vessels whatsoever, but only in such as do truly and without fraud belong only to the people of this Commonwealth, or the plantations thereof, as the proprietors or right owners thereof; and whereof the master and mariners are also of the people of this Commonwealth, under the penalty of the forfeiture and loss of all the goods that shall be imported contrary to this act, , , ,\n[N]o goods or commodities of the growth, production, or manufacture of Europe, or of any part thereof, shall after the first day of December, one thousand six hundred fifty and one, be imported or brought into this Commonwealth of England, or any other lands or territories to this Commonwealth belonging, or in their possession, in any ship or ships, vessel or vessels whatsoever, but in such as do truly and without fraud belong only to the people of this Commonwealth, and in no other, except only such foreign ships and vessels as do truly and properly belong to the people of that country or place, of which the said goods are the growth, production or manufacture.\nThe aforementioned 1651 Navigation Acts above conflict with which of the following economic philosopher's theories and beliefs?\n(A) Thomas Malthus\n(B) Josiah Child\n(C) Adam Smith\n(D) Jean-Baptiste Colbert",
+        "label": "C",
+        "category": "high_school_european_history_test",
+        "idx": 42
+    },
+    {
+        "question": "A woman acquired land by a deed that contained the following language in the grantee section: \"to [the woman], her heirs and assigns, provided, however, that said grantee may not transfer any interest in the land for 10 years from the date of this instrument.\" Two years later, the woman contracted to sell the land to an investor for a price based on a recent appraisal. When the investor's title search revealed the above language in the grantee section of the deed to the woman, the investor refused to close the transaction. The contract was silent as to the woman's title obligation. The woman has sued the investor for specific performance. Who is likely to prevail?\n(A) The investor, because the woman cannot sell the land during the 10-year period specified in the deed.\n(B) The investor, because the woman's heirs did not join in the contract.\n(C) The woman, because the contract did not obligate her to provide marketable title.\n(D) The woman, because the deed's restraint on transfer is void as a matter of law.",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 597
+    },
+    {
+        "question": "If one party to a contract is forced to sign, the contract is defined as\n(A) enforceable\n(B) executory\n(C) unilateral\n(D) voidable",
+        "label": "D",
+        "category": "miscellaneous_test",
+        "idx": 430
+    },
+    {
+        "question": "The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?\n(A) Differentiate.\n(B) Participate.\n(C) Reinforce.\n(D) Inform.",
+        "label": "B",
+        "category": "marketing_test",
+        "idx": 38
+    },
+    {
+        "question": "Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?\n(A) European\n(B) Muslim\n(C) Sub-Saharan African\n(D) Latin American",
+        "label": "D",
+        "category": "high_school_geography_test",
+        "idx": 84
+    },
+    {
+        "question": "A fair coin is to be tossed 100 times, with each toss resulting in a head or a tail. If H is the total number of heads and T is the total number of tails, which of the following events has the greatest probability?\n(A) H = 50\n(B) T >= 60\n(C) 51 <= H <= 55\n(D) H >= 48 and T >= 48",
+        "label": "D",
+        "category": "college_mathematics_test",
+        "idx": 75
+    },
+    {
+        "question": "_____ is a key driving force shaping the current and future state of business ethics, in particular regarding _____, ______ and _____ related issues.\n(A) Globalisation, Cultural, Legal, Accountability\n(B) Nationalisation, Cultural, Environmental, Accountability\n(C) Privatisation, Cultural, Legal, Accountability\n(D) Globalisation, Technological, Financial, Accountability",
+        "label": "A",
+        "category": "business_ethics_test",
+        "idx": 61
+    },
+    {
+        "question": "Epicurus holds that philosophy is:\n(A) not suitable for the young.\n(B) not suitable for the old.\n(C) important, but unpleasant.\n(D) none of the above.",
+        "label": "D",
+        "category": "philosophy_test",
+        "idx": 72
+    },
+    {
+        "question": "What is the relationship between Westphalian sovereignty and humanitarian intervention?\n(A) In its advocacy of global political institutions, the Treaty of Westphalia defined state sovereignty as being subjective to the behaviour of the political or ruling elite in that state, prioritizing human welfare over arbitrary values of sovereignty and thus legitimising humanitarian intervention where necessary.\n(B) Theories of Westphalian sovereignty decree that principles of non-intervention are paramount to achieving security; this has been extended into the contemporary global security environment in which international bodies such as the UN condemn humanitarian intervention, regarding it as detrimental to state-centric security.\n(C) State sovereignty and principles of non-interference that underpin the Westphalian approach can be disregarded, provided that there is a consensus amongst international actors that human life within the state is at risk, and where that risk is from the actions of the state itself.\n(D) The international society is governed by norms of Westphalian sovereignty that advocate non-intervention and the respect of state sovereignty as a means of achieving security. These norms are enshrined in the Charter of the United Nations, which bans the use of force between states except in self-defence or when authorized by the UN.",
+        "label": "D",
+        "category": "security_studies_test",
+        "idx": 72
+    },
+    {
+        "question": "A furniture store had a truck that an employee of the store used to deliver furniture to the store's customers. One afternoon while the employee was driving the truck to deliver a chair to a customer, the employee negligently ran through a stop sign and hit a car. The driver of the car suffered a leg injury and succeeded in suing the furniture store, recovering $25,000. Assume that all of these events occur in a jurisdiction that has statutes permitting defendants to bring claims for contribution and indemnity. In the event that the furniture store brings suit against its employee (the truck driver) to recover for its losses, the furniture store will recover\n(A) nothing, because the furniture store was primarily liable for the entire amount of damages.\n(B) $12,500, because the employer and employee bear equal shares of responsibility for the plaintiff's injuries.\n(C) $25,000, because the employee was at fault in causing the accident.\n(D) $25,000, unless the furniture store was fully insured against such losses.",
+        "label": "C",
+        "category": "professional_law_test",
+        "idx": 148
+    },
+    {
+        "question": "Those who have lost a close family member to suicide most often experience\n(A) A lack of support from others\n(B) A desire to kill themselves\n(C) Feelings of relief and release\n(D) Severe but temporary cognitive impairment",
+        "label": "A",
+        "category": "human_aging_test",
+        "idx": 203
+    },
+    {
+        "question": "Disorganized language like clang associations or neologisms is associated with\n(A) autism spectrum disorder.\n(B) schizophrenia.\n(C) dissociative identity disorder.\n(D) bipolar disorder.",
+        "label": "B",
+        "category": "high_school_psychology_test",
+        "idx": 234
+    },
+    {
+        "question": "What is the legal nature of the Universal Declaration of Human Rights (UDHR)?\n(A) The UDHR is a multilateral treaty\n(B) The UDHR is a UN General Assembly resolution\n(C) The UDHR is a UN Security Council resolution\n(D) The UDHR is a declaration adopted by several States at an international conference",
+        "label": "B",
+        "category": "international_law_test",
+        "idx": 87
+    },
+    {
+        "question": "In British currency how many pence make a pound?\n(A) 10\n(B) 100\n(C) 500\n(D) 1000",
+        "label": "B",
+        "category": "miscellaneous_test",
+        "idx": 126
+    },
+    {
+        "question": "What does it mean to be secure?\n(A) Security means the coercive capability to stop an aggressor. Security is freedom from war, and the ability to deter or defeat aggressive attacks.\n(B) Security refers to safety from vulnerabilities (both external and internal) that could harm the state, societies within the state, and the values of those societies.\n(C) Security means freedom to enjoy the things that are most important to human survival and well-being, such as food, healthcare, and the opportunity to live well.\n(D) All of these options.",
+        "label": "D",
+        "category": "security_studies_test",
+        "idx": 22
+    },
+    {
+        "question": "Experiments with stone spear points made to replicate those artifacts found at the Kathu Pan site in South Africa suggest that Homo erectus:\n(A) made and used spears with stone projectile points for hunting 500,000 years ago.\n(B) made and used spears with stone projectile points for hunting more than 3 million years ago.\n(C) did not use spears with stone projectile points, but probably hunted and caught fish with wooden and bone tools.\n(D) made stone spear points for use as weapons, but not for hunting.",
+        "label": "A",
+        "category": "prehistory_test",
+        "idx": 321
+    },
+    {
+        "question": "According to Moore, \u201cpleasure is good\u201d means the same thing as:\n(A) \u201cpleasure is desired.\u201d\n(B) \u201cpleasure is pleasant.\u201d\n(C) \u201cwe desire to desire pleasure.\u201d\n(D) none of the above.",
+        "label": "D",
+        "category": "philosophy_test",
+        "idx": 271
+    },
+    {
+        "question": "A sample of oxygen gas at 50 \u00b0C is heated, reaching a final temperature of 100 \u00b0C. Which statement best describes the behavior of the gas molecules?\n(A) Their velocity increases by a factor of two.\n(B) Their velocity increases by a factor of four.\n(C) Their kinetic energy increases by a factor of 2.\n(D) Their kinetic energy increases by a factor of less than 2.",
+        "label": "D",
+        "category": "high_school_chemistry_test",
+        "idx": 72
+    },
+    {
+        "question": "Seller says a circumstance has occurred that makes performing a sales contract impractical. Which of the following is not correct about discharge for impracticability?\n(A) The problem must not have been caused by the fault of the party seeking to invoke the defense.\n(B) A price increase is sufficient for discharge.\n(C) The failure to excuse performance would result in grave injustice.\n(D) The impracticality must go to a basic assumption on which the contract was made.",
+        "label": "B",
+        "category": "professional_law_test",
+        "idx": 1107
+    },
+    {
+        "question": "Blood clots are responsible for repeatedly blocking a catheter. What should you do?\n(A) Call for help.\n(B) Inform medical staff.\n(C) Inform the patient.\n(D) Remove the catheter and recatheterize.",
+        "label": "B",
+        "category": "clinical_knowledge_test",
+        "idx": 181
+    },
+    {
+        "question": "A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent upper respiratory tract infections, sinusitis, and pancreatitis. She has thick nasal secretions. She says that her sweat is salty and crystallizes on her skin. Her vital signs are within normal limits. Physical examination shows epigastric tenderness. Genetic testing for the 36 most common mutations shows a detectable mutation (G551D) in one allele of the CFTR gene. Which of the following best explains this patient's clinical phenotype?\n(A) Only one G551D allele is needed in CFTR\n(B) The patient is a CFTR obligate carrier\n(C) The patient's CFTR mutation is unrelated to her clinical phenotype\n(D) The second CFTR mutation was not detected by the testing obtained",
+        "label": "D",
+        "category": "professional_medicine_test",
+        "idx": 240
+    },
+    {
+        "question": "A seat in a movie theater collapsed, causing the customer sitting in that seat to fall to the ground and suffer a back injury. In a personal injury action by the customer against the theater, the customer will most likely\n(A) recover, because the theater was under an absolute duty of care to make the premises safe for the protection of its customers.\n(B) recover, only if the theater had prior knowledge of the dangerous condition of the seat.\n(C) not recover, because the theater was under no obligation to inspect the premises to discover unknown dangers.\n(D) not recover, unless the theater failed to make a reasonable inspection of the seats for the safety of its customers.",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 1086
+    },
+    {
+        "question": "Which of the following is the correct characteristic of arteries?\n(A) They are thin-walled blood vessels.\n(B) They contain valves that prevent backflow.\n(C) They always carry oxygenated blood.\n(D) They carry blood away from the heart.",
+        "label": "D",
+        "category": "high_school_biology_test",
+        "idx": 185
+    },
+    {
+        "question": "Clovis points are NOT found in:\n(A) Alaska.\n(B) Mexico.\n(C) Canada.\n(D) the continental United States.",
+        "label": "A",
+        "category": "prehistory_test",
+        "idx": 127
+    },
+    {
+        "question": "A person purchased a new car from a local auto dealership. Over the next month, the purchaser drove the car a little more than 1,000 miles. The purchaser noticed that the car made a squeaking noise when the brakes were applied, so the purchaser took the car back to the dealership to have the mechanic there take a look at it. The mechanic worked on the car and then told the purchaser that the problem had been fixed. A few days later, the brakes failed, causing the purchaser to crash into a tree. The purchaser suffered a serious head injury in the crash. If the purchaser asserts a claim against the car dealership for damages for his injuries, will the purchaser prevail?\n(A) Yes, if the brakes were defective when the dealership sold the car to the purchaser.\n(B) Yes, because the dealership is strictly liable for defective repairs on cars it has sold.\n(C) No, because the car had been driven more than 1,000 miles.\n(D) No, unless the dealership's employee was negligent in repairing the brakes.",
+        "label": "A",
+        "category": "professional_law_test",
+        "idx": 317
+    },
+    {
+        "question": "A regression model predicting frequency of tantrums from (a) effectiveness of parental commands, (b) consistency of parental discipline, and (c) parental warmth, would result in a model with:\n(A) One y-intercept and one regression coefficient\n(B) Four regression coefficients\n(C) One regression coefficient and three y-intercepts\n(D) One y-intercept and three regression coefficients",
+        "label": "D",
+        "category": "professional_psychology_test",
+        "idx": 67
+    },
+    {
+        "question": "Each of the two main political parties of the United States is organized\n(A) as a single party with a presence at the national level only\n(B) into a federal structure in which state and local parties have no power\n(C) as a relatively independent organization that exists at all levels of government\n(D) in a top-down fashion, so that instructions are dispersed from the national level to the state and local levels",
+        "label": "C",
+        "category": "high_school_government_and_politics_test",
+        "idx": 38
+    },
+    {
+        "question": "Let K be a nonempty subset of R^n, where n > 1. Which of the following statements must be true?\nI. If K is compact, then every continuous real-valued function defined on K is bounded.\nII. If every continuous real-valued function defined on K is bounded, then K is compact.\nIII. If K is compact, then K is connected.\n(A) I only\n(B) II only\n(C) III only\n(D) I and II only",
+        "label": "D",
+        "category": "college_mathematics_test",
+        "idx": 15
+    },
+    {
+        "question": " Thomas Nagel call the two kinds of moral considerations he discusses in \"War and Massacre\"\n(A) consequentialist and dignity-based\n(B) forward-looking and backward-looking\n(C) utilitarian and absolutist\n(D) All of the above",
+        "label": "C",
+        "category": "moral_disputes_test",
+        "idx": 28
+    },
+    {
+        "question": "What expression can be used to show 270,240 written in expanded form?\n(A) 200,000 + 7,000 + 200 + 4\n(B) 200,000 + 7,000 + 200 + 40\n(C) 200,000 + 70,000 + 200 + 40\n(D) 200,000 + 70,000 + 2,000 + 40",
+        "label": "C",
+        "category": "elementary_mathematics_test",
+        "idx": 33
+    },
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | When I took out the trash, I included used paper plates. Scenario 2 | I wanted the diamonds, so I purchased them from the jeweler.\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+        "label": "D",
+        "category": "moral_scenarios_test",
+        "idx": 762
+    },
+    {
+        "question": "How many periods are there in an ice hockey game?\n(A) One\n(B) Two\n(C) Three\n(D) Four",
+        "label": "C",
+        "category": "miscellaneous_test",
+        "idx": 587
+    },
+    {
+        "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~(M \u2261 ~N)\nM / N\n(A) Valid\n(B) Invalid. Counterexample when M and N are true\n(C) Invalid. Counterexample when M is true and N is false\n(D) Invalid. Counterexample when N is true and M is false",
+        "label": "A",
+        "category": "formal_logic_test",
+        "idx": 123
+    },
+    {
+        "question": "Which of the following statements about Ethernets is typically FALSE?\n(A) Ethernets use circuit switching to send messages.\n(B) Ethernets use buses with multiple masters.\n(C) Ethernet protocols use a collision-detection method to ensure that messages are transmitted properly.\n(D) Networks connected by Ethernets are limited in length to a few hundred meters.",
+        "label": "A",
+        "category": "college_computer_science_test",
+        "idx": 18
+    },
+    {
+        "question": "Nussbaum claims that our modern debates about homosexuality:\n(A) are continuations of the very same debate about sexual activity that went on in the Greek world.\n(B) are interminable because there is no objective answer as to whether homosexuality is immoral.\n(C) are carried out in a manner that is not virtuous.\n(D) none of the above.",
+        "label": "D",
+        "category": "philosophy_test",
+        "idx": 87
+    },
+    {
+        "question": "Adaptive thermogenesis refers to:\n\n(A) A decrease in heat loss when exposed to cold\n(B) A decrease in non-shivering thermogenesis when exposed to cold\n(C) An increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding\n(D) A decrease in spontaneous physical activity during chronic overfeeding.",
+        "label": "C",
+        "category": "nutrition_test",
+        "idx": 237
+    },
+    {
+        "question": "A sorted list of 120 integers is to be searched to determine whether the value 100 is in the list. Assuming that the most efficient searching algorithm is used, what is the maximum number of elements that must be examined?\n(A) 7\n(B) 8\n(C) 20\n(D) 100",
+        "label": "A",
+        "category": "high_school_computer_science_test",
+        "idx": 43
+    },
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I picked up a purse in the parking lot today and kept it. Scenario 2 | When the neighbor complained of noise, I turned my music up.\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+        "label": "A",
+        "category": "moral_scenarios_test",
+        "idx": 320
+    },
+    {
+        "question": "Which of the following would be an example of fiat money?\n(A) Cigarettes used as money in prisons\n(B) Dollar bills\n(C) Gold coins\n(D) Arrowheads used as a medium of exchange",
+        "label": "B",
+        "category": "high_school_macroeconomics_test",
+        "idx": 24
+    },
+    {
+        "question": "Let F be a constant unit force that is parallel to the vector (-1, 0, 1) in xyz-space. What is the work done by F on a particle that moves along the path given by (t, t^2, t^3) between time t=0 and time t=1?\n(A) -1/4\n(B) -1/(4sqrt(2))\n(C) 0\n(D) sqrt(2)",
+        "label": "C",
+        "category": "college_mathematics_test",
+        "idx": 17
+    },
+    {
+        "question": "A minor child was eating a fish sandwich in a fast food restaurant when a large metal object, later identified as a fish hook, got caught in her throat. The trapped hook caused her to cough blood uncontrollably, and she was rushed to a hospital for emergency surgery. The restaurant later defended the customer's lawsuit by showing that it had done everything reasonable to eliminate foreign objects from its product and there was no negligence. Will the lawsuit be dismissed and judgment entered for the restaurant?\n(A) No, because even without negligence there is strict liability imposed for selling an unreasonably dangerous product.\n(B) Yes, because a customer voluntarily assumes the foreseeable risk that fish will contain metal fish hooks.\n(C) Yes, because customers are expected to know that a fish sandwich will often have foreign objects in it.\n(D) No, because the seller did not post a warning that its fish might contain fish hooks.",
+        "label": "A",
+        "category": "professional_law_test",
+        "idx": 877
+    },
+    {
+        "question": "A farmer was the record title owner of a 30-acre tract of farmland. The farmer lived out of state and rarely visited the farmland, which remained unoccupied. Adjoining the farmland was a 50-acre ranch, which was owned by a rancher. In 2004, the rancher forged the farmer's signature on a deed and purported to convey the farmland to a grocer. The grocer paid the rancher $100,000 as the purchase price for the farmland. The following year, the grocer sold the property to a buyer for $125,000. The deed from the grocer to the buyer was properly executed and recorded by the buyer. This jurisdiction has the following \"pure race\" recording statute in effect:\"No conveyance or other instrument is valid as against purchasers for a valuable consideration who record first. \"After the buyer took possession of the farmland, he renovated the farmhouse that was located on the property and made improvements valued at $50,000. In 2006, the farmer returned to visit his sister. During his visit, the farmer went to the farmland to inspect his farmland. While doing so, he encountered the buyer, who informed the farmer that he was the new owner of the property. The farmer thereupon instituted suit to quiet title to the farmland. After judgment was rendered in the farmer's favor, the buyer was ejected from the property. The buyer has now filed an appropriate action against the grocer seeking restitution for the loss he incurred with respect to the purchase and improvements made on the farmland. The buyer will likely recover\n(A) nothing, because the grocer was also a fraud victim and suffered a substantial financial loss.\n(B) $25,000. 00\n(C) $50,000. 00\n(D) $125,000. 00",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 803
+    },
+    {
+        "question": "What was the Marshall plan?\n(A) A plan designed to aid the economy recovery of Europe\n(B) An attempt to diminish the potential attraction of the Soviet system to Europeans\n(C) An aid programme that embedded US influence in Europe\n(D) All of the above",
+        "label": "D",
+        "category": "us_foreign_policy_test",
+        "idx": 78
+    },
+    {
+        "question": "All of the following are true under the system of checks and balances EXCEPT\n(A) the president's nominees must be approved by the Senate before taking office\n(B) two-thirds of the Senate must approve presidentially negotiated treaties\n(C) the president can override a congressional veto and pass laws\n(D) Congress can override a presidential veto",
+        "label": "C",
+        "category": "high_school_government_and_politics_test",
+        "idx": 148
+    },
+    {
+        "question": "How many positive and negative integers is $12$ a multiple of?\n(A) 1\n(B) 4\n(C) 12\n(D) 3",
+        "label": "C",
+        "category": "high_school_mathematics_test",
+        "idx": 243
+    },
+    {
+        "question": "Lassa and Ebola are emergent viruses in W. Africa. What is their origin?\n(A) Humans\n(B) Primates\n(C) Fruit bats\n(D) Pigs",
+        "label": "B",
+        "category": "virology_test",
+        "idx": 45
+    },
+    {
+        "question": "For which of the following preliminary questions of fact will the trial court judge, not the jury, determine admissibility?\n(A) Whether the voice on a sound recording is that of the defendant.\n(B) Whether defendant's copy of a document accurately reflects the contents of the original writing.\n(C) Whether a conspiracy existed and defendant and declarant were members of the conspiracy before admitting an alleged declaration by a co-conspirator.\n(D) A plaintiff sues on a lost writing, and the defendant contends that it was not lost because it never existed. The question to be decided is whether the original writing ever existed.",
+        "label": "C",
+        "category": "professional_law_test",
+        "idx": 1209
+    },
+    {
+        "question": "Which of the following best describes the structure that collects urine in the body?\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+        "label": "A",
+        "category": "anatomy_test",
+        "idx": 2
+    },
+    {
+        "question": "The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:\n(A) E-marketing.\n(B) Social marketing.\n(C) Digital marketing\n(D) Internet marketing.",
+        "label": "C",
+        "category": "marketing_test",
+        "idx": 178
+    },
+    {
+        "question": "This question refers to the following information.\nARTICLE I: Germany, Austria-Hungary, Bulgaria and Turkey for the one part, and Russia for the other part, declare that the state of war between them has ceased. They are resolved to live henceforth in peace and amity with one another. \u2026\nARTICLE III: The territories lying to the west of the line agreed upon by the contracting parties, which formerly belonged to Russia, will no longer be subject to Russian sovereignty; the line agreed upon is traced on the map submitted as an essential part of this treaty of peace. The exact fixation of the line will be established by a Russo-German commission.\nTreaty of Brest-Litovsk, March 14, 1918\nThe Treaty of Brest-Litovsk can best be described as the result of\n(A) the Bolsheviks' need to end the Russian war effort in order to consolidate their revolutionary gains\n(B) corruption on the part of Bolshevik leaders and collaboration with Russian business interests\n(C) the breaking up of the Triple Entente\n(D) French and British aid being given to the so-called White Russians who opposed the Bolshevik government",
+        "label": "A",
+        "category": "high_school_european_history_test",
+        "idx": 161
+    },
+    {
+        "question": "Which of these qualities is NOT listed as something to consider when choosing an opinion leader for a public relations campaigns?\n(A) Reputation\n(B) Impact\n(C) Familiarity with subject or issue\n(D) Ability to reach people",
+        "label": "C",
+        "category": "public_relations_test",
+        "idx": 40
+    },
+    {
+        "question": "A model of a park was built on a scale of 1.5 centimeters to 50 meters. If the distance between two trees in the park is 150 meters, what is this distance on the model?\n(A) 0.5 centimeter\n(B) 4.5 centimeters\n(C) 75 centimeters\n(D) 225 centimeters",
+        "label": "B",
+        "category": "elementary_mathematics_test",
+        "idx": 102
+    },
+    {
+        "question": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\n(A) V_0/5\n(B) V_0/3\n(C) V_0/2\n(D) 2V_0/3",
+        "label": "D",
+        "category": "college_physics_test",
+        "idx": 6
+    },
+    {
+        "question": "An ideal fluid flows through a pipe with radius Q and flow speed V. If the pipe splits up into three separate paths, each with radius (Q/2), what is the flow speed through each of the paths?\n(A) 1/3 V\n(B) 2/3 V\n(C) 4/3 V\n(D) 4V",
+        "label": "C",
+        "category": "high_school_physics_test",
+        "idx": 27
+    },
+    {
+        "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?\n(A) by 5 fold\n(B) by 10 fold\n(C) by 15 fold\n(D) by 20 fold",
+        "label": "C",
+        "category": "global_facts_test",
+        "idx": 4
+    },
+    {
+        "question": "Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?\n\n(A) 10\n(B) 25\n(C) 30\n(D) 32",
+        "label": "D",
+        "category": "nutrition_test",
+        "idx": 118
+    },
+    {
+        "question": " A truly environmental ethic must hold that which of the following has direct moral standing?\n(A) at least some nonhuman beings\n(B) at least some nonconscious beings\n(C) both A and B\n(D) neither A nor B; an environmental ethic may deny that there are any nonhuman and nonconscious beings with direct moral standing.",
+        "label": "C",
+        "category": "moral_disputes_test",
+        "idx": 77
+    },
+    {
+        "question": "The main advantage of dielectric heating is that\n(A) heating occurs in the material itself.\n(B) heating occurs due to high frequency.\n(C) it can be used for drying the explosives.\n(D) None of the above.",
+        "label": "A",
+        "category": "electrical_engineering_test",
+        "idx": 77
+    },
+    {
+        "question": "A husband and wife had a stormy relationship. The husband, who was an alcoholic, frequently beat his wife when he became drunk. One day, the husband had been drinking beer while watching football on television. After his favorite team lost a close game, the husband went into a violent rage. As he was storming around the apartment, he suddenly grabbed his wife and led her outside to their car. He then ordered her to get inside the vehicle. The husband was driving around aimlessly when he negligently collided with another car. The other driver, who was injured in the accident, brought suit against the husband to recover damages. Thereafter, the husband retained an attorney to represent him. At his first consultation with the attorney, the husband was accompanied by his wife. During the conference, the attorney's secretary took notes of the meeting. Two weeks later, the wife separated from the husband. She then hired a lawyer to represent her in a suit against the husband for battery and false imprisonment. At the trial between the husband and the other driver, the other driver's attorney calls the wife to testify. She proposes to testify that her husband was intoxicated at the time of the accident. Upon objection by the husband's attorney, the wife's proposed testimony will most likely be\n(A) admissible as a proper lay opinion.\n(B) inadmissible, under the attorney-clientprivilege.\n(C) inadmissible, under the marital privilege.\n(D) inadmissible, because the wife is biased.",
+        "label": "C",
+        "category": "professional_law_test",
+        "idx": 936
+    },
+    {
+        "question": "The position of an object is given by the equations x = 2.0t^3 + 4.0t + 6.25, where x is in meters and t is in seconds. What is the acceleration of the object at t = 1.50 s?\n(A) 6 m/s^2\n(B) 12 m/s^2\n(C) 18 m/s^2\n(D) 24 m/s^2",
+        "label": "C",
+        "category": "high_school_physics_test",
+        "idx": 121
+    },
+    {
+        "question": "A 20-month old clings nervously to her mother and does not want to explore a new play environment. She suddenly pushes her mother away and does not engage in any hugs her mother tries to give her. The infant\u2019s facial expression shows anxiety but she looks away from her mother. The mother turns away from the baby as well. This child most likely has which type of attachment to her mother?\n(A) Secure\n(B) Insecure avoidant\n(C) Insecure resistant\n(D) Insecure disorganized",
+        "label": "C",
+        "category": "professional_psychology_test",
+        "idx": 215
+    },
+    {
+        "question": "Statement 1| Traditional machine learning results assume that the train and test sets are independent and identically distributed. Statement 2| In 2017, COCO models were usually pretrained on ImageNet.\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+        "label": "A",
+        "category": "machine_learning_test",
+        "idx": 67
+    },
+    {
+        "question": "A brick mason was hired by a builder under a written one-year contract, at an annual salary of $45,000, with employment to begin on March 1. Because the builder was unable to secure enough building contracts to keep all its employees busy during the season beginning March 1, it notified the brick mason on February 15 that it could not afford to employ him as a mason. At the same time, however, the builder offered to employ the mason, for the same contract period, as a night guard at an annual salary of $25,000. The mason declined the offer and remained unemployed during the year. No offer and remained unemployed during the year. No employment for brick masons was available in the community during the year, but the mason could have obtained other employment as a day laborer that would have paid up to $25,000 a year. At the end of the year, in an action against the builder for breach of contract, how much, if anything, is the mason entitled to recover?\n(A) $20,000 (the $45,000 contract price less the $25,000 the mason could have earned in other employment).\n(B) $45,000 (the contract price).\n(C) Nothing, because the builder did not act in bad faith when it discharged the mason.\n(D) Nothing, because the mason did not mitigate his damages.",
+        "label": "B",
+        "category": "professional_law_test",
+        "idx": 1363
+    },
+    {
+        "question": "If the Federal Reserve was concerned about the \"crowding-out\" effect they could engage in\n(A) expansionary monetary policy by lowering the discount rate.\n(B) expansionary monetary policy by selling Treasury securities.\n(C) contractionary monetary policy by raising the discount rate.\n(D) contractionary monetary policy by lowering the discount rate.",
+        "label": "A",
+        "category": "high_school_macroeconomics_test",
+        "idx": 132
+    },
+    {
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I told my son it was okay to lick the cactus. Scenario 2 | I vacuumed her car after our interactions at home.\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong",
+        "label": "B",
+        "category": "moral_scenarios_test",
+        "idx": 844
+    },
+    {
+        "question": "Which statement best describes Tom Regan's 'sentimental anthropomorphicism' in support of animals rights?\n(A) Animals have inherent worth which entitles them to the absolute right to live their lives with respect and autonomy.\n(B) The social contract includes animals and their welfare.\n(C) The suffering of a few animals may in principle be justified by the pleasure of or benefit to the many.\n(D) Cruelty to animals is a reflection of the barbarity of a society.",
+        "label": "A",
+        "category": "jurisprudence_test",
+        "idx": 74
+    },
+    {
+        "question": "A company contracted with a builder to construct a new corporate headquarters for a fixed price of $100 million. At the time of the contract, structural steel was widely available and was included in the contract as a $6 million item. Before work began on the project, tornado damage shut down the production facility of the biggest structural steel supplier in the country, and the price of structural steel increased by 20% as a result. The builder informed the company of the steel price increase, and the parties then orally agreed to increase the project price to $101 million. The builder proceeded with construction and delivered the project on time. The company paid the builder $100 million but refused to pay the additional $1 million. If the builder sues the company for $1 million, is the builder likely to prevail?\n(A) No, because the modification was never reduced to a writing signed by the party to be charged.\n(B) No, because there was no consideration for the modification of the contract.\n(C) Yes, because the company\u00d5s promise was supported by consideration.\n(D) Yes, because the modification was fair and equitable in view of the unanticipated increase in the price of structural steel.",
+        "label": "D",
+        "category": "professional_law_test",
+        "idx": 1256
+    },
+    {
+        "question": "Ty has 12 weeks to read a certain number of books. He will spend 2 weeks reading each book. Which expression can Ty use to find the total number of books he will read?\n(A) 12 \u2013 2\n(B) 12 + 12\n(C) 12 \u2013 2 \u2013 2 \u2013 2\n(D) 12 \u2013 2 \u2013 2 \u2013 2 \u2013 2 \u2013 2 \u2013 2",
+        "label": "D",
+        "category": "elementary_mathematics_test",
+        "idx": 206
+    },
+    {
+        "question": "When the Democratic Party pursues liberal social policies, it is most likely to alienate which of its traditional bases?\n(A) People holding advanced academic degrees\n(B) Northeastern city dwellers\n(C) Southerners\n(D) Jewish Americans",
+        "label": "C",
+        "category": "high_school_government_and_politics_test",
+        "idx": 92
+    },
+    {
+        "question": "A man stands in an elevator as it begins to ascend. Does the normal force from the floor do work on the man?\n(A) Yes, and the work done will be positive.\n(B) Yes, and the work done will be negative.\n(C) Yes, but the sign can\u2019t be determined.\n(D) No.",
+        "label": "A",
+        "category": "high_school_physics_test",
+        "idx": 122
+    },
+    {
+        "question": "A state has recently enacted a statute wherein aliens are prohibited from owning any commercial real estate within the state. Subsequent to the statute, a lawful resident alien enters into a contract with another lawful resident alien to purchase the latter's office building. Assume that both resident aliens join in a declaratory judgment action to test the validity of the state statute in federal court. The court should rule that\n(A) the state has the burden of proof to show that there is a compelling state interest to support the statute.\n(B) the burden of proof is on the resident aliens to show that there is no compelling state interest to support the statute.\n(C) the resident aliens do not have standing.\n(D) either resident alien has standing, but not both.",
+        "label": "A",
+        "category": "professional_law_test",
+        "idx": 641
+    },
+    {
+        "question": "Which of the following is NOT one of Joseph Tainter's proposed causes for the collapse of ancient civilizations?\n(A) resource depletion\n(B) economic decline\n(C) elite mismanagement\n(D) epidemic disease",
+        "label": "D",
+        "category": "prehistory_test",
+        "idx": 259
+    },
+    {
+        "question": " Shapiro discusses experiments about the role of expectations in the experience of drug use to show that\n(A) drug effects are inherently biological and are not influenced at all by expectations and other psychological factors.\n(B) users who do not expect to get addicted to \"hard\" drugs almost always do.\n(C) there is no such thing as drug addiction.\n(D) sometimes a drug's effects are the direct result of what one expects from the drug.",
+        "label": "D",
+        "category": "moral_disputes_test",
+        "idx": 103
+    },
+    {
+        "question": "Relaxation Voltage controlled oscillators are used to generate\n(A) Sinusoidal wave\n(B) Triangular wave\n(C) Sawtooth wave\n(D) Both B and C",
+        "label": "D",
+        "category": "electrical_engineering_test",
+        "idx": 24
+    },
+    {
+        "question": "Which of the following statements is true?\n(A) Some of the things included in M2 are not as liquid as the things in MI.\n(B) M2 is smaller than MI.\n(C) M I is backed by gold and M2 is backed by silver.\n(D) The biggest component of M I is currency.",
+        "label": "A",
+        "category": "high_school_macroeconomics_test",
+        "idx": 52
+    },
+    {
+        "question": "Which of the following insures the value of the U.S. dollar?\n(A) The euro and other foreign currencies held by the Federal Reserve\n(B) Gold bars in secure locations like Fort Knox\n(C) The promise of the U.S. government to maintain its value\n(D) The value of the actual paper on which it is printed.",
+        "label": "C",
+        "category": "high_school_macroeconomics_test",
+        "idx": 48
+    },
+    {
+        "question": "All of the following are modes of asexual reproduction EXCEPT\n(A) sporulation\n(B) fission\n(C) budding\n(D) meiosis",
+        "label": "D",
+        "category": "high_school_biology_test",
+        "idx": 84
+    },
+    {
+        "question": "Zoey is laying bricks for her patio. The salesman wants to sell Zoey as many bricks as possible to cover her patio with a thickness of one brick, while not having any extra bricks. The patio area is a rectangle with dimensions 12 feet by 10 feet, and each individual brick is 4 inches by 6 inches by 2 inches. What would be the greatest number of bricks the salesman could sell to meet his sales criteria?\n(A) 5,760\n(B) 2,880\n(C) 2,160\n(D) 1,440",
+        "label": "C",
+        "category": "high_school_mathematics_test",
+        "idx": 235
+    },
+    {
+        "question": "A state criminal law prohibits the publication of any description of the details of the execution of any prisoner who is sentenced to death by the courts of the state. Although the law allows a specified number of reporters to observe an execution, only the prison warden's official statement that the prisoner was \"executed as provided by law\" at a certain time and date may be published. The purpose of the law is to protect the public, particularly children, from the details of executions. After a particular execution was mishandled, causing the prisoner to suffer, a newspaper in the state published a story describing the event in detail. The story was written by the newspaper's reporter, who was permitted to observe the execution but did not promise prison officials that he would report only the warden's official statement. A prosecutor subsequently filed charges against the newspaper for publishing the details of the execution in violation of the state law. Is this prosecution constitutional?\n(A) No, because the prosecution seeks to punish the publication of lawfully obtained, truthful information about a matter of public significance, without adequate justification.\n(B) No, because the reporter did not promise prison officials that he would report only the warden's official statement about the execution.\n(C) Yes, because publication of the details of such events might cause psychological damage to some children.\n(D) Yes, because the newspaper should have brought an action to test the validity of the law before publishing the reporter's story.",
+        "label": "B",
+        "category": "professional_law_test",
+        "idx": 539
+    }
+]
