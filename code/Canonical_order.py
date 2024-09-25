@@ -13,12 +13,12 @@ from utils import *
 import time
 import pickle
 
-MODEL = "vsamuel@andrew.cmu.edu/llama-2-70b-chat-final_oracle-2024-07-29-02-47-08-4d586374"
+MODEL = "finetuned_model_name"
 
 flatten = lambda l : [x for s in l for x in s]
 shuffle = lambda l : random.sample(l, k=len(l))
 
-def llama_chat_gen(text, model_card="vsamuel@andrew.cmu.edu/llama-2-70b-chat-final_oracle-2024-07-29-02-47-08-4d586374"):
+def llama_chat_gen(text, model_card="finetuned-model-name"):
     client = Together(api_key=LLAMA_API_KEY)
     message=[{"role": "user", "content": text}]
     temperature = 1.0
