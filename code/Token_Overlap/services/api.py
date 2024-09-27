@@ -3,9 +3,9 @@ from together import Together
 import anthropic
 
 
-OPENAI_API_KEY = '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'
-CLAUDE_API_KEY = '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'
-LLAMA_API_KEY = '1dbc08282ed0b3fdfb7f165f3945a2315b5c90b92c83be299a820ebd0c29cc2f'
+OPENAI_API_KEY = 'INSERT OPENAI API HERE'
+CLAUDE_API_KEY = 'INSERT CLAUDE API HERE'
+LLAMA_API_KEY = 'INSERT TOGETHER API HERE'
 
 class OpenAIClient:
     def __init__(self):
