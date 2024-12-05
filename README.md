@@ -4,7 +4,7 @@
 
 This repository contains the dataset and code of the paper:
 > **Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges** 
-> Under Review <br>
+> COLING 2025 <br>
 
 
 ## Datasets
