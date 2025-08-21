@@ -25,3 +25,30 @@ conda activate contamination
 # install dependency
 pip install -r requirements.txt
 ```
+
+## Bugs or Questions
+
+If you have any questions related to the dataset or the paper, feel free to email Vinay Samuel(vsamuel@umd.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
+
+## Citation
+If you find this repository helpful, please consider citing our paper: 
+```bibtex
+@inproceedings{samuel-etal-2025-towards,
+    title = "Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges",
+    author = "Samuel, Vinay  and
+      Zhou, Yue  and
+      Zou, Henry Peng",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.338/"
+}
+```
